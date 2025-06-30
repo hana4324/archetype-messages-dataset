@@ -1,0 +1,33 @@
+pretty_name: Archetype Messages Dataset
+license: mit
+task_categories:
+  - text-generation
+language:
+  - en
+tags:
+  - personalization
+  - archetypes
+  - message generation
+  - character modeling
+size_categories:
+  - 1K<n<10K
+dataset_info:
+  features:
+    - name: age
+      dtype: int32
+    - name: archetype
+      dtype: string
+    - name: profession
+      dtype: string
+    - name: city
+      dtype: string
+    - name: message_type
+      dtype: string
+    - name: message
+      dtype: string
+  splits:
+    - name: train
+      num_bytes: 134000
+      num_examples: 500
+  download_size: 134000
+  dataset_size: 134000
