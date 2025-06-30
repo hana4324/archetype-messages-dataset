@@ -1,0 +1,4002 @@
+[
+  {
+    "age": 25,
+    "archetype": "Jester / Entertainer",
+    "profession": "Marketing Manager",
+    "city": "Denver",
+    "message_type": "Funny",
+    "message": "At 25, being a Marketing Manager in Denver with a Jester / Entertainer streak? Comedy gold!"
+  },
+  {
+    "age": 33,
+    "archetype": "Ruler / Leader",
+    "profession": "Journalist",
+    "city": "Las Vegas",
+    "message_type": "Funny",
+    "message": "At 33, being a Journalist in Las Vegas with a Ruler / Leader streak? Comedy gold!"
+  },
+  {
+    "age": 44,
+    "archetype": "Innocent / Martyr",
+    "profession": "Journalist",
+    "city": "Las Vegas",
+    "message_type": "Funny",
+    "message": "At 44, being a Journalist in Las Vegas with a Innocent / Martyr streak? Comedy gold!"
+  },
+  {
+    "age": 27,
+    "archetype": "Jester / Entertainer",
+    "profession": "Veteran Outreach Specialist",
+    "city": "Austin",
+    "message_type": "Motivational",
+    "message": "Your journey as a Jester / Entertainer and Veteran Outreach Specialist in Austin at 27 is just beginning. Keep pushing forward!"
+  },
+  {
+    "age": 27,
+    "archetype": "Creator / Architect",
+    "profession": "Therapist",
+    "city": "Berkeley",
+    "message_type": "Motivational",
+    "message": "Creator / Architects like you bring hope to Berkeley. Your Therapist path at 27 is inspiring."
+  },
+  {
+    "age": 36,
+    "archetype": "Creator / Architect",
+    "profession": "Engineer",
+    "city": "Austin",
+    "message_type": "Motivational",
+    "message": "Your journey as a Creator / Architect and Engineer in Austin at 36 is just beginning. Keep pushing forward!"
+  },
+  {
+    "age": 28,
+    "archetype": "Magician / Visionary",
+    "profession": "Chef",
+    "city": "Berkeley",
+    "message_type": "Motivational",
+    "message": "Magician / Visionarys like you bring hope to Berkeley. Your Chef path at 28 is inspiring."
+  },
+  {
+    "age": 35,
+    "archetype": "Sage / Philosopher",
+    "profession": "Therapist",
+    "city": "Detroit",
+    "message_type": "Professional",
+    "message": "In Detroit, a Therapist with the mindset of a Sage / Philosopher at 35 stands out with confidence."
+  },
+  {
+    "age": 39,
+    "archetype": "Everyman / Realist",
+    "profession": "Software Developer",
+    "city": "Los Angeles",
+    "message_type": "Funny",
+    "message": "Los Angeles isn't ready for a Everyman / Realist Software Developer at 39 \u2014 bring the chaos!"
+  },
+  {
+    "age": 28,
+    "archetype": "Jester / Entertainer",
+    "profession": "AI Researcher",
+    "city": "Tampa",
+    "message_type": "Funny",
+    "message": "28 and still figuring out AI Researcher? Classic Jester / Entertainer energy!"
+  },
+  {
+    "age": 30,
+    "archetype": "Innocent / Martyr",
+    "profession": "Social Worker",
+    "city": "Detroit",
+    "message_type": "Professional",
+    "message": "At 30, your Innocent / Martyr perspective brings clarity and innovation to your role as a Social Worker in Detroit."
+  },
+  {
+    "age": 33,
+    "archetype": "Hero / Warrior",
+    "profession": "Nurse",
+    "city": "Austin",
+    "message_type": "Funny",
+    "message": "At 33, being a Nurse in Austin with a Hero / Warrior streak? Comedy gold!"
+  },
+  {
+    "age": 35,
+    "archetype": "Creator / Architect",
+    "profession": "Chef",
+    "city": "Las Vegas",
+    "message_type": "Professional",
+    "message": "At 35, your Creator / Architect perspective brings clarity and innovation to your role as a Chef in Las Vegas."
+  },
+  {
+    "age": 42,
+    "archetype": "Creator / Architect",
+    "profession": "Graduate Student",
+    "city": "Denver",
+    "message_type": "Funny",
+    "message": "42 and still figuring out Graduate Student? Classic Creator / Architect energy!"
+  },
+  {
+    "age": 41,
+    "archetype": "Sage / Philosopher",
+    "profession": "Pediatrician",
+    "city": "Los Angeles",
+    "message_type": "Professional",
+    "message": "Sage / Philosophers make excellent Pediatricians \u2014 your impact in Los Angeles at 41 is unmatched."
+  },
+  {
+    "age": 44,
+    "archetype": "Explorer / Seeker",
+    "profession": "Marketing Manager",
+    "city": "Philadelphia",
+    "message_type": "Professional",
+    "message": "At 44, your Explorer / Seeker perspective brings clarity and innovation to your role as a Marketing Manager in Philadelphia."
+  },
+  {
+    "age": 43,
+    "archetype": "Jester / Entertainer",
+    "profession": "Comedian",
+    "city": "Boston",
+    "message_type": "Professional",
+    "message": "At 43, your Jester / Entertainer perspective brings clarity and innovation to your role as a Comedian in Boston."
+  },
+  {
+    "age": 26,
+    "archetype": "Innocent / Martyr",
+    "profession": "Engineer",
+    "city": "Houston",
+    "message_type": "Professional",
+    "message": "Innocent / Martyrs make excellent Engineers \u2014 your impact in Houston at 26 is unmatched."
+  },
+  {
+    "age": 24,
+    "archetype": "Thief / Trickster",
+    "profession": "Journalist",
+    "city": "Las Vegas",
+    "message_type": "Professional",
+    "message": "In Las Vegas, a Journalist with the mindset of a Thief / Trickster at 24 stands out with confidence."
+  },
+  {
+    "age": 35,
+    "archetype": "Creator / Architect",
+    "profession": "Engineer",
+    "city": "Houston",
+    "message_type": "Professional",
+    "message": "Creator / Architects make excellent Engineers \u2014 your impact in Houston at 35 is unmatched."
+  },
+  {
+    "age": 31,
+    "archetype": "Orphan / Survivor",
+    "profession": "Therapist",
+    "city": "Los Angeles",
+    "message_type": "Motivational",
+    "message": "Orphan / Survivors like you bring hope to Los Angeles. Your Therapist path at 31 is inspiring."
+  },
+  {
+    "age": 36,
+    "archetype": "Hero / Warrior",
+    "profession": "Architect",
+    "city": "Houston",
+    "message_type": "Funny",
+    "message": "Houston isn't ready for a Hero / Warrior Architect at 36 \u2014 bring the chaos!"
+  },
+  {
+    "age": 36,
+    "archetype": "Rebel / Maverick",
+    "profession": "Project Manager",
+    "city": "Berkeley",
+    "message_type": "Funny",
+    "message": "36 and still figuring out Project Manager? Classic Rebel / Maverick energy!"
+  },
+  {
+    "age": 35,
+    "archetype": "Caregiver / Healer",
+    "profession": "Marketing Manager",
+    "city": "Las Vegas",
+    "message_type": "Motivational",
+    "message": "Caregiver / Healers like you bring hope to Las Vegas. Your Marketing Manager path at 35 is inspiring."
+  },
+  {
+    "age": 27,
+    "archetype": "Everyman / Realist",
+    "profession": "Graduate Student",
+    "city": "Denver",
+    "message_type": "Motivational",
+    "message": "Stay strong, 27-year-old Graduate Student. Your Everyman / Realist drive will lead you far in Denver."
+  },
+  {
+    "age": 22,
+    "archetype": "Caregiver / Healer",
+    "profession": "Journalist",
+    "city": "New York",
+    "message_type": "Motivational",
+    "message": "Stay strong, 22-year-old Journalist. Your Caregiver / Healer drive will lead you far in New York."
+  },
+  {
+    "age": 38,
+    "archetype": "Caregiver / Healer",
+    "profession": "Architect",
+    "city": "Houston",
+    "message_type": "Motivational",
+    "message": "Caregiver / Healers like you bring hope to Houston. Your Architect path at 38 is inspiring."
+  },
+  {
+    "age": 36,
+    "archetype": "Orphan / Survivor",
+    "profession": "Project Manager",
+    "city": "Denver",
+    "message_type": "Motivational",
+    "message": "Orphan / Survivors like you bring hope to Denver. Your Project Manager path at 36 is inspiring."
+  },
+  {
+    "age": 34,
+    "archetype": "Explorer / Seeker",
+    "profession": "Graduate Student",
+    "city": "Chicago",
+    "message_type": "Motivational",
+    "message": "Explorer / Seekers like you bring hope to Chicago. Your Graduate Student path at 34 is inspiring."
+  },
+  {
+    "age": 44,
+    "archetype": "Jester / Entertainer",
+    "profession": "Mechanic",
+    "city": "Detroit",
+    "message_type": "Funny",
+    "message": "At 44, being a Mechanic in Detroit with a Jester / Entertainer streak? Comedy gold!"
+  },
+  {
+    "age": 36,
+    "archetype": "Magician / Visionary",
+    "profession": "Startup Founder",
+    "city": "New York",
+    "message_type": "Motivational",
+    "message": "Magician / Visionarys like you bring hope to New York. Your Startup Founder path at 36 is inspiring."
+  },
+  {
+    "age": 24,
+    "archetype": "Mentor / Teacher",
+    "profession": "Startup Founder",
+    "city": "Detroit",
+    "message_type": "Motivational",
+    "message": "Stay strong, 24-year-old Startup Founder. Your Mentor / Teacher drive will lead you far in Detroit."
+  },
+  {
+    "age": 34,
+    "archetype": "Innocent / Martyr",
+    "profession": "AI Researcher",
+    "city": "Seattle",
+    "message_type": "Motivational",
+    "message": "Innocent / Martyrs like you bring hope to Seattle. Your AI Researcher path at 34 is inspiring."
+  },
+  {
+    "age": 33,
+    "archetype": "Rebel / Maverick",
+    "profession": "Startup Founder",
+    "city": "Philadelphia",
+    "message_type": "Professional",
+    "message": "In Philadelphia, a Startup Founder with the mindset of a Rebel / Maverick at 33 stands out with confidence."
+  },
+  {
+    "age": 42,
+    "archetype": "Magician / Visionary",
+    "profession": "Musician",
+    "city": "Tampa",
+    "message_type": "Motivational",
+    "message": "Stay strong, 42-year-old Musician. Your Magician / Visionary drive will lead you far in Tampa."
+  },
+  {
+    "age": 29,
+    "archetype": "Innocent / Martyr",
+    "profession": "Tutor",
+    "city": "Chicago",
+    "message_type": "Professional",
+    "message": "At 29, your Innocent / Martyr perspective brings clarity and innovation to your role as a Tutor in Chicago."
+  },
+  {
+    "age": 27,
+    "archetype": "Orphan / Survivor",
+    "profession": "Engineer",
+    "city": "Atlanta",
+    "message_type": "Funny",
+    "message": "27 and still figuring out Engineer? Classic Orphan / Survivor energy!"
+  },
+  {
+    "age": 42,
+    "archetype": "Innocent / Martyr",
+    "profession": "Mechanic",
+    "city": "New York",
+    "message_type": "Professional",
+    "message": "Innocent / Martyrs make excellent Mechanics \u2014 your impact in New York at 42 is unmatched."
+  },
+  {
+    "age": 44,
+    "archetype": "Lover / Companion",
+    "profession": "Mechanic",
+    "city": "New York",
+    "message_type": "Professional",
+    "message": "In New York, a Mechanic with the mindset of a Lover / Companion at 44 stands out with confidence."
+  },
+  {
+    "age": 44,
+    "archetype": "Thief / Trickster",
+    "profession": "Marketing Manager",
+    "city": "Las Vegas",
+    "message_type": "Motivational",
+    "message": "Your journey as a Thief / Trickster and Marketing Manager in Las Vegas at 44 is just beginning. Keep pushing forward!"
+  },
+  {
+    "age": 39,
+    "archetype": "Creator / Architect",
+    "profession": "Travel Blogger",
+    "city": "New York",
+    "message_type": "Funny",
+    "message": "At 39, being a Travel Blogger in New York with a Creator / Architect streak? Comedy gold!"
+  },
+  {
+    "age": 24,
+    "archetype": "Magician / Visionary",
+    "profession": "Startup Founder",
+    "city": "Boston",
+    "message_type": "Funny",
+    "message": "Boston isn't ready for a Magician / Visionary Startup Founder at 24 \u2014 bring the chaos!"
+  },
+  {
+    "age": 44,
+    "archetype": "Orphan / Survivor",
+    "profession": "Pediatrician",
+    "city": "Tampa",
+    "message_type": "Motivational",
+    "message": "Stay strong, 44-year-old Pediatrician. Your Orphan / Survivor drive will lead you far in Tampa."
+  },
+  {
+    "age": 35,
+    "archetype": "Magician / Visionary",
+    "profession": "Architect",
+    "city": "Denver",
+    "message_type": "Professional",
+    "message": "Magician / Visionarys make excellent Architects \u2014 your impact in Denver at 35 is unmatched."
+  },
+  {
+    "age": 28,
+    "archetype": "Sage / Philosopher",
+    "profession": "Mechanic",
+    "city": "Denver",
+    "message_type": "Funny",
+    "message": "At 28, being a Mechanic in Denver with a Sage / Philosopher streak? Comedy gold!"
+  },
+  {
+    "age": 29,
+    "archetype": "Thief / Trickster",
+    "profession": "Pediatrician",
+    "city": "Philadelphia",
+    "message_type": "Professional",
+    "message": "Thief / Tricksters make excellent Pediatricians \u2014 your impact in Philadelphia at 29 is unmatched."
+  },
+  {
+    "age": 34,
+    "archetype": "Lover / Companion",
+    "profession": "Chef",
+    "city": "Seattle",
+    "message_type": "Motivational",
+    "message": "Stay strong, 34-year-old Chef. Your Lover / Companion drive will lead you far in Seattle."
+  },
+  {
+    "age": 44,
+    "archetype": "Explorer / Seeker",
+    "profession": "Marketing Manager",
+    "city": "Boston",
+    "message_type": "Funny",
+    "message": "44 and still figuring out Marketing Manager? Classic Explorer / Seeker energy!"
+  },
+  {
+    "age": 36,
+    "archetype": "Creator / Architect",
+    "profession": "Nurse",
+    "city": "Seattle",
+    "message_type": "Professional",
+    "message": "Creator / Architects make excellent Nurses \u2014 your impact in Seattle at 36 is unmatched."
+  },
+  {
+    "age": 38,
+    "archetype": "Mentor / Teacher",
+    "profession": "Software Developer",
+    "city": "Boston",
+    "message_type": "Funny",
+    "message": "38 and still figuring out Software Developer? Classic Mentor / Teacher energy!"
+  },
+  {
+    "age": 24,
+    "archetype": "Jester / Entertainer",
+    "profession": "Musician",
+    "city": "Tampa",
+    "message_type": "Professional",
+    "message": "At 24, your Jester / Entertainer perspective brings clarity and innovation to your role as a Musician in Tampa."
+  },
+  {
+    "age": 24,
+    "archetype": "Everyman / Realist",
+    "profession": "Software Developer",
+    "city": "Philadelphia",
+    "message_type": "Professional",
+    "message": "At 24, your Everyman / Realist perspective brings clarity and innovation to your role as a Software Developer in Philadelphia."
+  },
+  {
+    "age": 34,
+    "archetype": "Creator / Architect",
+    "profession": "Startup Founder",
+    "city": "Atlanta",
+    "message_type": "Motivational",
+    "message": "Your journey as a Creator / Architect and Startup Founder in Atlanta at 34 is just beginning. Keep pushing forward!"
+  },
+  {
+    "age": 39,
+    "archetype": "Magician / Visionary",
+    "profession": "Software Developer",
+    "city": "Denver",
+    "message_type": "Motivational",
+    "message": "Stay strong, 39-year-old Software Developer. Your Magician / Visionary drive will lead you far in Denver."
+  },
+  {
+    "age": 39,
+    "archetype": "Explorer / Seeker",
+    "profession": "Pediatrician",
+    "city": "Detroit",
+    "message_type": "Professional",
+    "message": "Explorer / Seekers make excellent Pediatricians \u2014 your impact in Detroit at 39 is unmatched."
+  },
+  {
+    "age": 25,
+    "archetype": "Sage / Philosopher",
+    "profession": "Pediatrician",
+    "city": "Houston",
+    "message_type": "Motivational",
+    "message": "Sage / Philosophers like you bring hope to Houston. Your Pediatrician path at 25 is inspiring."
+  },
+  {
+    "age": 33,
+    "archetype": "Jester / Entertainer",
+    "profession": "Veteran Outreach Specialist",
+    "city": "Boston",
+    "message_type": "Funny",
+    "message": "At 33, being a Veteran Outreach Specialist in Boston with a Jester / Entertainer streak? Comedy gold!"
+  },
+  {
+    "age": 42,
+    "archetype": "Creator / Architect",
+    "profession": "Nurse",
+    "city": "Detroit",
+    "message_type": "Professional",
+    "message": "At 42, your Creator / Architect perspective brings clarity and innovation to your role as a Nurse in Detroit."
+  },
+  {
+    "age": 42,
+    "archetype": "Everyman / Realist",
+    "profession": "AI Researcher",
+    "city": "Atlanta",
+    "message_type": "Motivational",
+    "message": "Your journey as a Everyman / Realist and AI Researcher in Atlanta at 42 is just beginning. Keep pushing forward!"
+  },
+  {
+    "age": 33,
+    "archetype": "Thief / Trickster",
+    "profession": "Marketing Manager",
+    "city": "Las Vegas",
+    "message_type": "Professional",
+    "message": "At 33, your Thief / Trickster perspective brings clarity and innovation to your role as a Marketing Manager in Las Vegas."
+  },
+  {
+    "age": 31,
+    "archetype": "Caregiver / Healer",
+    "profession": "Nurse",
+    "city": "Philadelphia",
+    "message_type": "Motivational",
+    "message": "Stay strong, 31-year-old Nurse. Your Caregiver / Healer drive will lead you far in Philadelphia."
+  },
+  {
+    "age": 31,
+    "archetype": "Explorer / Seeker",
+    "profession": "Architect",
+    "city": "San Francisco",
+    "message_type": "Funny",
+    "message": "San Francisco isn't ready for a Explorer / Seeker Architect at 31 \u2014 bring the chaos!"
+  },
+  {
+    "age": 26,
+    "archetype": "Hero / Warrior",
+    "profession": "Comedian",
+    "city": "New York",
+    "message_type": "Professional",
+    "message": "At 26, your Hero / Warrior perspective brings clarity and innovation to your role as a Comedian in New York."
+  },
+  {
+    "age": 44,
+    "archetype": "Innocent / Martyr",
+    "profession": "Architect",
+    "city": "Tampa",
+    "message_type": "Motivational",
+    "message": "Stay strong, 44-year-old Architect. Your Innocent / Martyr drive will lead you far in Tampa."
+  },
+  {
+    "age": 33,
+    "archetype": "Hero / Warrior",
+    "profession": "Engineer",
+    "city": "Denver",
+    "message_type": "Professional",
+    "message": "In Denver, a Engineer with the mindset of a Hero / Warrior at 33 stands out with confidence."
+  },
+  {
+    "age": 24,
+    "archetype": "Thief / Trickster",
+    "profession": "Marketing Manager",
+    "city": "Seattle",
+    "message_type": "Motivational",
+    "message": "Your journey as a Thief / Trickster and Marketing Manager in Seattle at 24 is just beginning. Keep pushing forward!"
+  },
+  {
+    "age": 30,
+    "archetype": "Magician / Visionary",
+    "profession": "Marketing Manager",
+    "city": "Chicago",
+    "message_type": "Motivational",
+    "message": "Stay strong, 30-year-old Marketing Manager. Your Magician / Visionary drive will lead you far in Chicago."
+  },
+  {
+    "age": 43,
+    "archetype": "Everyman / Realist",
+    "profession": "Software Developer",
+    "city": "Los Angeles",
+    "message_type": "Funny",
+    "message": "Los Angeles isn't ready for a Everyman / Realist Software Developer at 43 \u2014 bring the chaos!"
+  },
+  {
+    "age": 29,
+    "archetype": "Innocent / Martyr",
+    "profession": "Startup Founder",
+    "city": "Seattle",
+    "message_type": "Professional",
+    "message": "In Seattle, a Startup Founder with the mindset of a Innocent / Martyr at 29 stands out with confidence."
+  },
+  {
+    "age": 42,
+    "archetype": "Rebel / Maverick",
+    "profession": "Nurse",
+    "city": "Las Vegas",
+    "message_type": "Funny",
+    "message": "At 42, being a Nurse in Las Vegas with a Rebel / Maverick streak? Comedy gold!"
+  },
+  {
+    "age": 37,
+    "archetype": "Lover / Companion",
+    "profession": "Veteran Outreach Specialist",
+    "city": "Denver",
+    "message_type": "Motivational",
+    "message": "Lover / Companions like you bring hope to Denver. Your Veteran Outreach Specialist path at 37 is inspiring."
+  },
+  {
+    "age": 37,
+    "archetype": "Jester / Entertainer",
+    "profession": "Marketing Manager",
+    "city": "New York",
+    "message_type": "Motivational",
+    "message": "Jester / Entertainers like you bring hope to New York. Your Marketing Manager path at 37 is inspiring."
+  },
+  {
+    "age": 39,
+    "archetype": "Sage / Philosopher",
+    "profession": "Tutor",
+    "city": "Seattle",
+    "message_type": "Funny",
+    "message": "At 39, being a Tutor in Seattle with a Sage / Philosopher streak? Comedy gold!"
+  },
+  {
+    "age": 23,
+    "archetype": "Innocent / Martyr",
+    "profession": "Journalist",
+    "city": "Chicago",
+    "message_type": "Professional",
+    "message": "Innocent / Martyrs make excellent Journalists \u2014 your impact in Chicago at 23 is unmatched."
+  },
+  {
+    "age": 29,
+    "archetype": "Orphan / Survivor",
+    "profession": "Graduate Student",
+    "city": "Berkeley",
+    "message_type": "Professional",
+    "message": "Orphan / Survivors make excellent Graduate Students \u2014 your impact in Berkeley at 29 is unmatched."
+  },
+  {
+    "age": 41,
+    "archetype": "Lover / Companion",
+    "profession": "Architect",
+    "city": "San Francisco",
+    "message_type": "Funny",
+    "message": "41 and still figuring out Architect? Classic Lover / Companion energy!"
+  },
+  {
+    "age": 22,
+    "archetype": "Caregiver / Healer",
+    "profession": "Architect",
+    "city": "Detroit",
+    "message_type": "Funny",
+    "message": "Detroit isn't ready for a Caregiver / Healer Architect at 22 \u2014 bring the chaos!"
+  },
+  {
+    "age": 34,
+    "archetype": "Thief / Trickster",
+    "profession": "AI Researcher",
+    "city": "Chicago",
+    "message_type": "Motivational",
+    "message": "Stay strong, 34-year-old AI Researcher. Your Thief / Trickster drive will lead you far in Chicago."
+  },
+  {
+    "age": 34,
+    "archetype": "Creator / Architect",
+    "profession": "Software Developer",
+    "city": "Tampa",
+    "message_type": "Professional",
+    "message": "At 34, your Creator / Architect perspective brings clarity and innovation to your role as a Software Developer in Tampa."
+  },
+  {
+    "age": 42,
+    "archetype": "Orphan / Survivor",
+    "profession": "Travel Blogger",
+    "city": "Boston",
+    "message_type": "Funny",
+    "message": "Boston isn't ready for a Orphan / Survivor Travel Blogger at 42 \u2014 bring the chaos!"
+  },
+  {
+    "age": 29,
+    "archetype": "Lover / Companion",
+    "profession": "Travel Blogger",
+    "city": "Philadelphia",
+    "message_type": "Motivational",
+    "message": "Your journey as a Lover / Companion and Travel Blogger in Philadelphia at 29 is just beginning. Keep pushing forward!"
+  },
+  {
+    "age": 29,
+    "archetype": "Ruler / Leader",
+    "profession": "Therapist",
+    "city": "Detroit",
+    "message_type": "Professional",
+    "message": "At 29, your Ruler / Leader perspective brings clarity and innovation to your role as a Therapist in Detroit."
+  },
+  {
+    "age": 34,
+    "archetype": "Rebel / Maverick",
+    "profession": "Chef",
+    "city": "Atlanta",
+    "message_type": "Professional",
+    "message": "Rebel / Mavericks make excellent Chefs \u2014 your impact in Atlanta at 34 is unmatched."
+  },
+  {
+    "age": 30,
+    "archetype": "Thief / Trickster",
+    "profession": "Social Worker",
+    "city": "Chicago",
+    "message_type": "Funny",
+    "message": "30 and still figuring out Social Worker? Classic Thief / Trickster energy!"
+  },
+  {
+    "age": 34,
+    "archetype": "Innocent / Martyr",
+    "profession": "Comedian",
+    "city": "Los Angeles",
+    "message_type": "Professional",
+    "message": "At 34, your Innocent / Martyr perspective brings clarity and innovation to your role as a Comedian in Los Angeles."
+  },
+  {
+    "age": 26,
+    "archetype": "Explorer / Seeker",
+    "profession": "Therapist",
+    "city": "Denver",
+    "message_type": "Motivational",
+    "message": "Your journey as a Explorer / Seeker and Therapist in Denver at 26 is just beginning. Keep pushing forward!"
+  },
+  {
+    "age": 38,
+    "archetype": "Lover / Companion",
+    "profession": "Engineer",
+    "city": "Austin",
+    "message_type": "Funny",
+    "message": "Austin isn't ready for a Lover / Companion Engineer at 38 \u2014 bring the chaos!"
+  },
+  {
+    "age": 39,
+    "archetype": "Orphan / Survivor",
+    "profession": "Nurse",
+    "city": "Houston",
+    "message_type": "Motivational",
+    "message": "Stay strong, 39-year-old Nurse. Your Orphan / Survivor drive will lead you far in Houston."
+  },
+  {
+    "age": 41,
+    "archetype": "Ruler / Leader",
+    "profession": "Nurse",
+    "city": "Las Vegas",
+    "message_type": "Motivational",
+    "message": "Ruler / Leaders like you bring hope to Las Vegas. Your Nurse path at 41 is inspiring."
+  },
+  {
+    "age": 40,
+    "archetype": "Jester / Entertainer",
+    "profession": "Social Worker",
+    "city": "Houston",
+    "message_type": "Motivational",
+    "message": "Jester / Entertainers like you bring hope to Houston. Your Social Worker path at 40 is inspiring."
+  },
+  {
+    "age": 39,
+    "archetype": "Caregiver / Healer",
+    "profession": "Architect",
+    "city": "New York",
+    "message_type": "Motivational",
+    "message": "Your journey as a Caregiver / Healer and Architect in New York at 39 is just beginning. Keep pushing forward!"
+  },
+  {
+    "age": 36,
+    "archetype": "Creator / Architect",
+    "profession": "Software Developer",
+    "city": "San Francisco",
+    "message_type": "Funny",
+    "message": "36 and still figuring out Software Developer? Classic Creator / Architect energy!"
+  },
+  {
+    "age": 26,
+    "archetype": "Ruler / Leader",
+    "profession": "Travel Blogger",
+    "city": "Atlanta",
+    "message_type": "Motivational",
+    "message": "Your journey as a Ruler / Leader and Travel Blogger in Atlanta at 26 is just beginning. Keep pushing forward!"
+  },
+  {
+    "age": 29,
+    "archetype": "Thief / Trickster",
+    "profession": "Journalist",
+    "city": "Boston",
+    "message_type": "Motivational",
+    "message": "Your journey as a Thief / Trickster and Journalist in Boston at 29 is just beginning. Keep pushing forward!"
+  },
+  {
+    "age": 27,
+    "archetype": "Magician / Visionary",
+    "profession": "AI Researcher",
+    "city": "Tampa",
+    "message_type": "Funny",
+    "message": "At 27, being a AI Researcher in Tampa with a Magician / Visionary streak? Comedy gold!"
+  },
+  {
+    "age": 42,
+    "archetype": "Ruler / Leader",
+    "profession": "Musician",
+    "city": "Philadelphia",
+    "message_type": "Funny",
+    "message": "Philadelphia isn't ready for a Ruler / Leader Musician at 42 \u2014 bring the chaos!"
+  },
+  {
+    "age": 23,
+    "archetype": "Ruler / Leader",
+    "profession": "Tutor",
+    "city": "Houston",
+    "message_type": "Funny",
+    "message": "23 and still figuring out Tutor? Classic Ruler / Leader energy!"
+  },
+  {
+    "age": 25,
+    "archetype": "Lover / Companion",
+    "profession": "Architect",
+    "city": "New York",
+    "message_type": "Professional",
+    "message": "In New York, a Architect with the mindset of a Lover / Companion at 25 stands out with confidence."
+  },
+  {
+    "age": 25,
+    "archetype": "Orphan / Survivor",
+    "profession": "Graduate Student",
+    "city": "Austin",
+    "message_type": "Professional",
+    "message": "At 25, your Orphan / Survivor perspective brings clarity and innovation to your role as a Graduate Student in Austin."
+  },
+  {
+    "age": 27,
+    "archetype": "Explorer / Seeker",
+    "profession": "Graduate Student",
+    "city": "Denver",
+    "message_type": "Motivational",
+    "message": "Your journey as a Explorer / Seeker and Graduate Student in Denver at 27 is just beginning. Keep pushing forward!"
+  },
+  {
+    "age": 41,
+    "archetype": "Rebel / Maverick",
+    "profession": "Graduate Student",
+    "city": "Tampa",
+    "message_type": "Funny",
+    "message": "Tampa isn't ready for a Rebel / Maverick Graduate Student at 41 \u2014 bring the chaos!"
+  },
+  {
+    "age": 40,
+    "archetype": "Creator / Architect",
+    "profession": "Journalist",
+    "city": "Berkeley",
+    "message_type": "Motivational",
+    "message": "Stay strong, 40-year-old Journalist. Your Creator / Architect drive will lead you far in Berkeley."
+  },
+  {
+    "age": 32,
+    "archetype": "Everyman / Realist",
+    "profession": "Marketing Manager",
+    "city": "Seattle",
+    "message_type": "Professional",
+    "message": "At 32, your Everyman / Realist perspective brings clarity and innovation to your role as a Marketing Manager in Seattle."
+  },
+  {
+    "age": 42,
+    "archetype": "Innocent / Martyr",
+    "profession": "Pediatrician",
+    "city": "Berkeley",
+    "message_type": "Motivational",
+    "message": "Your journey as a Innocent / Martyr and Pediatrician in Berkeley at 42 is just beginning. Keep pushing forward!"
+  },
+  {
+    "age": 25,
+    "archetype": "Magician / Visionary",
+    "profession": "Startup Founder",
+    "city": "New York",
+    "message_type": "Professional",
+    "message": "At 25, your Magician / Visionary perspective brings clarity and innovation to your role as a Startup Founder in New York."
+  },
+  {
+    "age": 39,
+    "archetype": "Magician / Visionary",
+    "profession": "Graduate Student",
+    "city": "Houston",
+    "message_type": "Motivational",
+    "message": "Magician / Visionarys like you bring hope to Houston. Your Graduate Student path at 39 is inspiring."
+  },
+  {
+    "age": 35,
+    "archetype": "Explorer / Seeker",
+    "profession": "AI Researcher",
+    "city": "Las Vegas",
+    "message_type": "Professional",
+    "message": "In Las Vegas, a AI Researcher with the mindset of a Explorer / Seeker at 35 stands out with confidence."
+  },
+  {
+    "age": 30,
+    "archetype": "Innocent / Martyr",
+    "profession": "Nurse",
+    "city": "Tampa",
+    "message_type": "Motivational",
+    "message": "Your journey as a Innocent / Martyr and Nurse in Tampa at 30 is just beginning. Keep pushing forward!"
+  },
+  {
+    "age": 35,
+    "archetype": "Thief / Trickster",
+    "profession": "Chef",
+    "city": "Philadelphia",
+    "message_type": "Motivational",
+    "message": "Your journey as a Thief / Trickster and Chef in Philadelphia at 35 is just beginning. Keep pushing forward!"
+  },
+  {
+    "age": 25,
+    "archetype": "Lover / Companion",
+    "profession": "Musician",
+    "city": "Atlanta",
+    "message_type": "Professional",
+    "message": "Lover / Companions make excellent Musicians \u2014 your impact in Atlanta at 25 is unmatched."
+  },
+  {
+    "age": 36,
+    "archetype": "Magician / Visionary",
+    "profession": "Veteran Outreach Specialist",
+    "city": "Seattle",
+    "message_type": "Funny",
+    "message": "At 36, being a Veteran Outreach Specialist in Seattle with a Magician / Visionary streak? Comedy gold!"
+  },
+  {
+    "age": 23,
+    "archetype": "Hero / Warrior",
+    "profession": "Graduate Student",
+    "city": "Boston",
+    "message_type": "Motivational",
+    "message": "Your journey as a Hero / Warrior and Graduate Student in Boston at 23 is just beginning. Keep pushing forward!"
+  },
+  {
+    "age": 31,
+    "archetype": "Hero / Warrior",
+    "profession": "AI Researcher",
+    "city": "Denver",
+    "message_type": "Professional",
+    "message": "Hero / Warriors make excellent AI Researchers \u2014 your impact in Denver at 31 is unmatched."
+  },
+  {
+    "age": 22,
+    "archetype": "Innocent / Martyr",
+    "profession": "Therapist",
+    "city": "Seattle",
+    "message_type": "Funny",
+    "message": "22 and still figuring out Therapist? Classic Innocent / Martyr energy!"
+  },
+  {
+    "age": 29,
+    "archetype": "Creator / Architect",
+    "profession": "Nurse",
+    "city": "Houston",
+    "message_type": "Motivational",
+    "message": "Stay strong, 29-year-old Nurse. Your Creator / Architect drive will lead you far in Houston."
+  },
+  {
+    "age": 26,
+    "archetype": "Explorer / Seeker",
+    "profession": "Comedian",
+    "city": "Austin",
+    "message_type": "Professional",
+    "message": "In Austin, a Comedian with the mindset of a Explorer / Seeker at 26 stands out with confidence."
+  },
+  {
+    "age": 31,
+    "archetype": "Rebel / Maverick",
+    "profession": "Veteran Outreach Specialist",
+    "city": "Berkeley",
+    "message_type": "Funny",
+    "message": "At 31, being a Veteran Outreach Specialist in Berkeley with a Rebel / Maverick streak? Comedy gold!"
+  },
+  {
+    "age": 34,
+    "archetype": "Caregiver / Healer",
+    "profession": "Nurse",
+    "city": "Berkeley",
+    "message_type": "Motivational",
+    "message": "Stay strong, 34-year-old Nurse. Your Caregiver / Healer drive will lead you far in Berkeley."
+  },
+  {
+    "age": 26,
+    "archetype": "Magician / Visionary",
+    "profession": "Project Manager",
+    "city": "Atlanta",
+    "message_type": "Funny",
+    "message": "26 and still figuring out Project Manager? Classic Magician / Visionary energy!"
+  },
+  {
+    "age": 34,
+    "archetype": "Orphan / Survivor",
+    "profession": "Project Manager",
+    "city": "Chicago",
+    "message_type": "Motivational",
+    "message": "Your journey as a Orphan / Survivor and Project Manager in Chicago at 34 is just beginning. Keep pushing forward!"
+  },
+  {
+    "age": 24,
+    "archetype": "Caregiver / Healer",
+    "profession": "Travel Blogger",
+    "city": "Berkeley",
+    "message_type": "Funny",
+    "message": "At 24, being a Travel Blogger in Berkeley with a Caregiver / Healer streak? Comedy gold!"
+  },
+  {
+    "age": 42,
+    "archetype": "Sage / Philosopher",
+    "profession": "Project Manager",
+    "city": "Detroit",
+    "message_type": "Motivational",
+    "message": "Stay strong, 42-year-old Project Manager. Your Sage / Philosopher drive will lead you far in Detroit."
+  },
+  {
+    "age": 40,
+    "archetype": "Hero / Warrior",
+    "profession": "Comedian",
+    "city": "Houston",
+    "message_type": "Motivational",
+    "message": "Your journey as a Hero / Warrior and Comedian in Houston at 40 is just beginning. Keep pushing forward!"
+  },
+  {
+    "age": 44,
+    "archetype": "Magician / Visionary",
+    "profession": "AI Researcher",
+    "city": "Detroit",
+    "message_type": "Professional",
+    "message": "At 44, your Magician / Visionary perspective brings clarity and innovation to your role as a AI Researcher in Detroit."
+  },
+  {
+    "age": 43,
+    "archetype": "Hero / Warrior",
+    "profession": "AI Researcher",
+    "city": "Chicago",
+    "message_type": "Motivational",
+    "message": "Hero / Warriors like you bring hope to Chicago. Your AI Researcher path at 43 is inspiring."
+  },
+  {
+    "age": 22,
+    "archetype": "Magician / Visionary",
+    "profession": "Marketing Manager",
+    "city": "Denver",
+    "message_type": "Motivational",
+    "message": "Magician / Visionarys like you bring hope to Denver. Your Marketing Manager path at 22 is inspiring."
+  },
+  {
+    "age": 39,
+    "archetype": "Thief / Trickster",
+    "profession": "Journalist",
+    "city": "San Francisco",
+    "message_type": "Motivational",
+    "message": "Thief / Tricksters like you bring hope to San Francisco. Your Journalist path at 39 is inspiring."
+  },
+  {
+    "age": 24,
+    "archetype": "Rebel / Maverick",
+    "profession": "Journalist",
+    "city": "Houston",
+    "message_type": "Professional",
+    "message": "In Houston, a Journalist with the mindset of a Rebel / Maverick at 24 stands out with confidence."
+  },
+  {
+    "age": 43,
+    "archetype": "Everyman / Realist",
+    "profession": "Comedian",
+    "city": "Denver",
+    "message_type": "Funny",
+    "message": "43 and still figuring out Comedian? Classic Everyman / Realist energy!"
+  },
+  {
+    "age": 43,
+    "archetype": "Explorer / Seeker",
+    "profession": "Startup Founder",
+    "city": "Boston",
+    "message_type": "Motivational",
+    "message": "Stay strong, 43-year-old Startup Founder. Your Explorer / Seeker drive will lead you far in Boston."
+  },
+  {
+    "age": 26,
+    "archetype": "Mentor / Teacher",
+    "profession": "Musician",
+    "city": "Tampa",
+    "message_type": "Funny",
+    "message": "26 and still figuring out Musician? Classic Mentor / Teacher energy!"
+  },
+  {
+    "age": 39,
+    "archetype": "Ruler / Leader",
+    "profession": "Architect",
+    "city": "Denver",
+    "message_type": "Professional",
+    "message": "In Denver, a Architect with the mindset of a Ruler / Leader at 39 stands out with confidence."
+  },
+  {
+    "age": 30,
+    "archetype": "Innocent / Martyr",
+    "profession": "Pediatrician",
+    "city": "Philadelphia",
+    "message_type": "Motivational",
+    "message": "Innocent / Martyrs like you bring hope to Philadelphia. Your Pediatrician path at 30 is inspiring."
+  },
+  {
+    "age": 29,
+    "archetype": "Creator / Architect",
+    "profession": "Therapist",
+    "city": "Los Angeles",
+    "message_type": "Motivational",
+    "message": "Creator / Architects like you bring hope to Los Angeles. Your Therapist path at 29 is inspiring."
+  },
+  {
+    "age": 29,
+    "archetype": "Sage / Philosopher",
+    "profession": "Project Manager",
+    "city": "Philadelphia",
+    "message_type": "Professional",
+    "message": "At 29, your Sage / Philosopher perspective brings clarity and innovation to your role as a Project Manager in Philadelphia."
+  },
+  {
+    "age": 22,
+    "archetype": "Innocent / Martyr",
+    "profession": "Nurse",
+    "city": "Detroit",
+    "message_type": "Funny",
+    "message": "At 22, being a Nurse in Detroit with a Innocent / Martyr streak? Comedy gold!"
+  },
+  {
+    "age": 32,
+    "archetype": "Hero / Warrior",
+    "profession": "Pediatrician",
+    "city": "New York",
+    "message_type": "Funny",
+    "message": "At 32, being a Pediatrician in New York with a Hero / Warrior streak? Comedy gold!"
+  },
+  {
+    "age": 24,
+    "archetype": "Ruler / Leader",
+    "profession": "Mechanic",
+    "city": "Atlanta",
+    "message_type": "Motivational",
+    "message": "Stay strong, 24-year-old Mechanic. Your Ruler / Leader drive will lead you far in Atlanta."
+  },
+  {
+    "age": 38,
+    "archetype": "Rebel / Maverick",
+    "profession": "Comedian",
+    "city": "Austin",
+    "message_type": "Motivational",
+    "message": "Rebel / Mavericks like you bring hope to Austin. Your Comedian path at 38 is inspiring."
+  },
+  {
+    "age": 23,
+    "archetype": "Rebel / Maverick",
+    "profession": "Comedian",
+    "city": "New York",
+    "message_type": "Motivational",
+    "message": "Your journey as a Rebel / Maverick and Comedian in New York at 23 is just beginning. Keep pushing forward!"
+  },
+  {
+    "age": 34,
+    "archetype": "Caregiver / Healer",
+    "profession": "Therapist",
+    "city": "New York",
+    "message_type": "Motivational",
+    "message": "Your journey as a Caregiver / Healer and Therapist in New York at 34 is just beginning. Keep pushing forward!"
+  },
+  {
+    "age": 30,
+    "archetype": "Sage / Philosopher",
+    "profession": "Therapist",
+    "city": "Austin",
+    "message_type": "Funny",
+    "message": "30 and still figuring out Therapist? Classic Sage / Philosopher energy!"
+  },
+  {
+    "age": 38,
+    "archetype": "Orphan / Survivor",
+    "profession": "Marketing Manager",
+    "city": "Austin",
+    "message_type": "Motivational",
+    "message": "Orphan / Survivors like you bring hope to Austin. Your Marketing Manager path at 38 is inspiring."
+  },
+  {
+    "age": 37,
+    "archetype": "Innocent / Martyr",
+    "profession": "Chef",
+    "city": "Denver",
+    "message_type": "Motivational",
+    "message": "Your journey as a Innocent / Martyr and Chef in Denver at 37 is just beginning. Keep pushing forward!"
+  },
+  {
+    "age": 43,
+    "archetype": "Thief / Trickster",
+    "profession": "Architect",
+    "city": "Houston",
+    "message_type": "Funny",
+    "message": "At 43, being a Architect in Houston with a Thief / Trickster streak? Comedy gold!"
+  },
+  {
+    "age": 25,
+    "archetype": "Innocent / Martyr",
+    "profession": "Startup Founder",
+    "city": "New York",
+    "message_type": "Funny",
+    "message": "At 25, being a Startup Founder in New York with a Innocent / Martyr streak? Comedy gold!"
+  },
+  {
+    "age": 42,
+    "archetype": "Ruler / Leader",
+    "profession": "Musician",
+    "city": "Boston",
+    "message_type": "Professional",
+    "message": "At 42, your Ruler / Leader perspective brings clarity and innovation to your role as a Musician in Boston."
+  },
+  {
+    "age": 42,
+    "archetype": "Jester / Entertainer",
+    "profession": "AI Researcher",
+    "city": "Boston",
+    "message_type": "Professional",
+    "message": "At 42, your Jester / Entertainer perspective brings clarity and innovation to your role as a AI Researcher in Boston."
+  },
+  {
+    "age": 31,
+    "archetype": "Lover / Companion",
+    "profession": "Travel Blogger",
+    "city": "Austin",
+    "message_type": "Motivational",
+    "message": "Lover / Companions like you bring hope to Austin. Your Travel Blogger path at 31 is inspiring."
+  },
+  {
+    "age": 22,
+    "archetype": "Hero / Warrior",
+    "profession": "Veteran Outreach Specialist",
+    "city": "Austin",
+    "message_type": "Motivational",
+    "message": "Hero / Warriors like you bring hope to Austin. Your Veteran Outreach Specialist path at 22 is inspiring."
+  },
+  {
+    "age": 29,
+    "archetype": "Hero / Warrior",
+    "profession": "Comedian",
+    "city": "Tampa",
+    "message_type": "Professional",
+    "message": "At 29, your Hero / Warrior perspective brings clarity and innovation to your role as a Comedian in Tampa."
+  },
+  {
+    "age": 23,
+    "archetype": "Mentor / Teacher",
+    "profession": "Marketing Manager",
+    "city": "Detroit",
+    "message_type": "Motivational",
+    "message": "Mentor / Teachers like you bring hope to Detroit. Your Marketing Manager path at 23 is inspiring."
+  },
+  {
+    "age": 34,
+    "archetype": "Mentor / Teacher",
+    "profession": "Social Worker",
+    "city": "Detroit",
+    "message_type": "Professional",
+    "message": "Mentor / Teachers make excellent Social Workers \u2014 your impact in Detroit at 34 is unmatched."
+  },
+  {
+    "age": 41,
+    "archetype": "Creator / Architect",
+    "profession": "Graduate Student",
+    "city": "Houston",
+    "message_type": "Professional",
+    "message": "In Houston, a Graduate Student with the mindset of a Creator / Architect at 41 stands out with confidence."
+  },
+  {
+    "age": 22,
+    "archetype": "Mentor / Teacher",
+    "profession": "Nurse",
+    "city": "Las Vegas",
+    "message_type": "Professional",
+    "message": "At 22, your Mentor / Teacher perspective brings clarity and innovation to your role as a Nurse in Las Vegas."
+  },
+  {
+    "age": 42,
+    "archetype": "Caregiver / Healer",
+    "profession": "Architect",
+    "city": "Atlanta",
+    "message_type": "Professional",
+    "message": "In Atlanta, a Architect with the mindset of a Caregiver / Healer at 42 stands out with confidence."
+  },
+  {
+    "age": 44,
+    "archetype": "Creator / Architect",
+    "profession": "Mechanic",
+    "city": "Austin",
+    "message_type": "Motivational",
+    "message": "Creator / Architects like you bring hope to Austin. Your Mechanic path at 44 is inspiring."
+  },
+  {
+    "age": 32,
+    "archetype": "Jester / Entertainer",
+    "profession": "Social Worker",
+    "city": "Seattle",
+    "message_type": "Motivational",
+    "message": "Jester / Entertainers like you bring hope to Seattle. Your Social Worker path at 32 is inspiring."
+  },
+  {
+    "age": 43,
+    "archetype": "Ruler / Leader",
+    "profession": "Comedian",
+    "city": "Boston",
+    "message_type": "Funny",
+    "message": "Boston isn't ready for a Ruler / Leader Comedian at 43 \u2014 bring the chaos!"
+  },
+  {
+    "age": 29,
+    "archetype": "Lover / Companion",
+    "profession": "Software Developer",
+    "city": "New York",
+    "message_type": "Funny",
+    "message": "At 29, being a Software Developer in New York with a Lover / Companion streak? Comedy gold!"
+  },
+  {
+    "age": 39,
+    "archetype": "Lover / Companion",
+    "profession": "Tutor",
+    "city": "Denver",
+    "message_type": "Funny",
+    "message": "At 39, being a Tutor in Denver with a Lover / Companion streak? Comedy gold!"
+  },
+  {
+    "age": 38,
+    "archetype": "Caregiver / Healer",
+    "profession": "Architect",
+    "city": "San Francisco",
+    "message_type": "Motivational",
+    "message": "Stay strong, 38-year-old Architect. Your Caregiver / Healer drive will lead you far in San Francisco."
+  },
+  {
+    "age": 34,
+    "archetype": "Explorer / Seeker",
+    "profession": "Engineer",
+    "city": "Austin",
+    "message_type": "Funny",
+    "message": "At 34, being a Engineer in Austin with a Explorer / Seeker streak? Comedy gold!"
+  },
+  {
+    "age": 42,
+    "archetype": "Explorer / Seeker",
+    "profession": "Social Worker",
+    "city": "Chicago",
+    "message_type": "Professional",
+    "message": "At 42, your Explorer / Seeker perspective brings clarity and innovation to your role as a Social Worker in Chicago."
+  },
+  {
+    "age": 39,
+    "archetype": "Creator / Architect",
+    "profession": "Travel Blogger",
+    "city": "Denver",
+    "message_type": "Motivational",
+    "message": "Stay strong, 39-year-old Travel Blogger. Your Creator / Architect drive will lead you far in Denver."
+  },
+  {
+    "age": 27,
+    "archetype": "Caregiver / Healer",
+    "profession": "Marketing Manager",
+    "city": "Philadelphia",
+    "message_type": "Professional",
+    "message": "In Philadelphia, a Marketing Manager with the mindset of a Caregiver / Healer at 27 stands out with confidence."
+  },
+  {
+    "age": 31,
+    "archetype": "Everyman / Realist",
+    "profession": "Social Worker",
+    "city": "Seattle",
+    "message_type": "Professional",
+    "message": "Everyman / Realists make excellent Social Workers \u2014 your impact in Seattle at 31 is unmatched."
+  },
+  {
+    "age": 28,
+    "archetype": "Orphan / Survivor",
+    "profession": "AI Researcher",
+    "city": "Tampa",
+    "message_type": "Motivational",
+    "message": "Orphan / Survivors like you bring hope to Tampa. Your AI Researcher path at 28 is inspiring."
+  },
+  {
+    "age": 42,
+    "archetype": "Sage / Philosopher",
+    "profession": "Chef",
+    "city": "Berkeley",
+    "message_type": "Funny",
+    "message": "At 42, being a Chef in Berkeley with a Sage / Philosopher streak? Comedy gold!"
+  },
+  {
+    "age": 27,
+    "archetype": "Hero / Warrior",
+    "profession": "Graduate Student",
+    "city": "Tampa",
+    "message_type": "Funny",
+    "message": "27 and still figuring out Graduate Student? Classic Hero / Warrior energy!"
+  },
+  {
+    "age": 39,
+    "archetype": "Rebel / Maverick",
+    "profession": "Musician",
+    "city": "Philadelphia",
+    "message_type": "Motivational",
+    "message": "Rebel / Mavericks like you bring hope to Philadelphia. Your Musician path at 39 is inspiring."
+  },
+  {
+    "age": 28,
+    "archetype": "Sage / Philosopher",
+    "profession": "Veteran Outreach Specialist",
+    "city": "Austin",
+    "message_type": "Motivational",
+    "message": "Stay strong, 28-year-old Veteran Outreach Specialist. Your Sage / Philosopher drive will lead you far in Austin."
+  },
+  {
+    "age": 26,
+    "archetype": "Explorer / Seeker",
+    "profession": "Nurse",
+    "city": "Chicago",
+    "message_type": "Motivational",
+    "message": "Explorer / Seekers like you bring hope to Chicago. Your Nurse path at 26 is inspiring."
+  },
+  {
+    "age": 36,
+    "archetype": "Rebel / Maverick",
+    "profession": "Veteran Outreach Specialist",
+    "city": "Atlanta",
+    "message_type": "Motivational",
+    "message": "Your journey as a Rebel / Maverick and Veteran Outreach Specialist in Atlanta at 36 is just beginning. Keep pushing forward!"
+  },
+  {
+    "age": 32,
+    "archetype": "Everyman / Realist",
+    "profession": "Nurse",
+    "city": "Tampa",
+    "message_type": "Professional",
+    "message": "At 32, your Everyman / Realist perspective brings clarity and innovation to your role as a Nurse in Tampa."
+  },
+  {
+    "age": 34,
+    "archetype": "Hero / Warrior",
+    "profession": "Engineer",
+    "city": "New York",
+    "message_type": "Professional",
+    "message": "At 34, your Hero / Warrior perspective brings clarity and innovation to your role as a Engineer in New York."
+  },
+  {
+    "age": 40,
+    "archetype": "Innocent / Martyr",
+    "profession": "Software Developer",
+    "city": "Tampa",
+    "message_type": "Motivational",
+    "message": "Stay strong, 40-year-old Software Developer. Your Innocent / Martyr drive will lead you far in Tampa."
+  },
+  {
+    "age": 34,
+    "archetype": "Explorer / Seeker",
+    "profession": "Project Manager",
+    "city": "Atlanta",
+    "message_type": "Professional",
+    "message": "At 34, your Explorer / Seeker perspective brings clarity and innovation to your role as a Project Manager in Atlanta."
+  },
+  {
+    "age": 22,
+    "archetype": "Explorer / Seeker",
+    "profession": "Software Developer",
+    "city": "Las Vegas",
+    "message_type": "Motivational",
+    "message": "Stay strong, 22-year-old Software Developer. Your Explorer / Seeker drive will lead you far in Las Vegas."
+  },
+  {
+    "age": 38,
+    "archetype": "Mentor / Teacher",
+    "profession": "Pediatrician",
+    "city": "Detroit",
+    "message_type": "Motivational",
+    "message": "Mentor / Teachers like you bring hope to Detroit. Your Pediatrician path at 38 is inspiring."
+  },
+  {
+    "age": 38,
+    "archetype": "Rebel / Maverick",
+    "profession": "Therapist",
+    "city": "Denver",
+    "message_type": "Professional",
+    "message": "At 38, your Rebel / Maverick perspective brings clarity and innovation to your role as a Therapist in Denver."
+  },
+  {
+    "age": 42,
+    "archetype": "Magician / Visionary",
+    "profession": "Architect",
+    "city": "San Francisco",
+    "message_type": "Motivational",
+    "message": "Stay strong, 42-year-old Architect. Your Magician / Visionary drive will lead you far in San Francisco."
+  },
+  {
+    "age": 31,
+    "archetype": "Creator / Architect",
+    "profession": "Veteran Outreach Specialist",
+    "city": "Atlanta",
+    "message_type": "Professional",
+    "message": "At 31, your Creator / Architect perspective brings clarity and innovation to your role as a Veteran Outreach Specialist in Atlanta."
+  },
+  {
+    "age": 26,
+    "archetype": "Magician / Visionary",
+    "profession": "Travel Blogger",
+    "city": "Houston",
+    "message_type": "Funny",
+    "message": "Houston isn't ready for a Magician / Visionary Travel Blogger at 26 \u2014 bring the chaos!"
+  },
+  {
+    "age": 40,
+    "archetype": "Orphan / Survivor",
+    "profession": "Travel Blogger",
+    "city": "Atlanta",
+    "message_type": "Funny",
+    "message": "40 and still figuring out Travel Blogger? Classic Orphan / Survivor energy!"
+  },
+  {
+    "age": 40,
+    "archetype": "Rebel / Maverick",
+    "profession": "Chef",
+    "city": "New York",
+    "message_type": "Professional",
+    "message": "In New York, a Chef with the mindset of a Rebel / Maverick at 40 stands out with confidence."
+  },
+  {
+    "age": 35,
+    "archetype": "Innocent / Martyr",
+    "profession": "Chef",
+    "city": "Philadelphia",
+    "message_type": "Motivational",
+    "message": "Innocent / Martyrs like you bring hope to Philadelphia. Your Chef path at 35 is inspiring."
+  },
+  {
+    "age": 27,
+    "archetype": "Explorer / Seeker",
+    "profession": "Project Manager",
+    "city": "Atlanta",
+    "message_type": "Motivational",
+    "message": "Your journey as a Explorer / Seeker and Project Manager in Atlanta at 27 is just beginning. Keep pushing forward!"
+  },
+  {
+    "age": 31,
+    "archetype": "Ruler / Leader",
+    "profession": "Journalist",
+    "city": "Berkeley",
+    "message_type": "Professional",
+    "message": "Ruler / Leaders make excellent Journalists \u2014 your impact in Berkeley at 31 is unmatched."
+  },
+  {
+    "age": 32,
+    "archetype": "Rebel / Maverick",
+    "profession": "Engineer",
+    "city": "Las Vegas",
+    "message_type": "Funny",
+    "message": "At 32, being a Engineer in Las Vegas with a Rebel / Maverick streak? Comedy gold!"
+  },
+  {
+    "age": 35,
+    "archetype": "Rebel / Maverick",
+    "profession": "Journalist",
+    "city": "Houston",
+    "message_type": "Professional",
+    "message": "At 35, your Rebel / Maverick perspective brings clarity and innovation to your role as a Journalist in Houston."
+  },
+  {
+    "age": 22,
+    "archetype": "Mentor / Teacher",
+    "profession": "Architect",
+    "city": "Los Angeles",
+    "message_type": "Professional",
+    "message": "Mentor / Teachers make excellent Architects \u2014 your impact in Los Angeles at 22 is unmatched."
+  },
+  {
+    "age": 34,
+    "archetype": "Sage / Philosopher",
+    "profession": "Graduate Student",
+    "city": "Seattle",
+    "message_type": "Funny",
+    "message": "Seattle isn't ready for a Sage / Philosopher Graduate Student at 34 \u2014 bring the chaos!"
+  },
+  {
+    "age": 35,
+    "archetype": "Creator / Architect",
+    "profession": "Startup Founder",
+    "city": "Seattle",
+    "message_type": "Funny",
+    "message": "35 and still figuring out Startup Founder? Classic Creator / Architect energy!"
+  },
+  {
+    "age": 42,
+    "archetype": "Innocent / Martyr",
+    "profession": "Journalist",
+    "city": "New York",
+    "message_type": "Motivational",
+    "message": "Stay strong, 42-year-old Journalist. Your Innocent / Martyr drive will lead you far in New York."
+  },
+  {
+    "age": 40,
+    "archetype": "Innocent / Martyr",
+    "profession": "Travel Blogger",
+    "city": "Berkeley",
+    "message_type": "Professional",
+    "message": "In Berkeley, a Travel Blogger with the mindset of a Innocent / Martyr at 40 stands out with confidence."
+  },
+  {
+    "age": 28,
+    "archetype": "Thief / Trickster",
+    "profession": "Startup Founder",
+    "city": "Detroit",
+    "message_type": "Motivational",
+    "message": "Thief / Tricksters like you bring hope to Detroit. Your Startup Founder path at 28 is inspiring."
+  },
+  {
+    "age": 37,
+    "archetype": "Mentor / Teacher",
+    "profession": "Mechanic",
+    "city": "Atlanta",
+    "message_type": "Motivational",
+    "message": "Stay strong, 37-year-old Mechanic. Your Mentor / Teacher drive will lead you far in Atlanta."
+  },
+  {
+    "age": 44,
+    "archetype": "Innocent / Martyr",
+    "profession": "Graduate Student",
+    "city": "Los Angeles",
+    "message_type": "Professional",
+    "message": "At 44, your Innocent / Martyr perspective brings clarity and innovation to your role as a Graduate Student in Los Angeles."
+  },
+  {
+    "age": 42,
+    "archetype": "Magician / Visionary",
+    "profession": "Chef",
+    "city": "Boston",
+    "message_type": "Funny",
+    "message": "42 and still figuring out Chef? Classic Magician / Visionary energy!"
+  },
+  {
+    "age": 22,
+    "archetype": "Mentor / Teacher",
+    "profession": "Veteran Outreach Specialist",
+    "city": "Denver",
+    "message_type": "Professional",
+    "message": "At 22, your Mentor / Teacher perspective brings clarity and innovation to your role as a Veteran Outreach Specialist in Denver."
+  },
+  {
+    "age": 43,
+    "archetype": "Sage / Philosopher",
+    "profession": "Pediatrician",
+    "city": "Tampa",
+    "message_type": "Funny",
+    "message": "Tampa isn't ready for a Sage / Philosopher Pediatrician at 43 \u2014 bring the chaos!"
+  },
+  {
+    "age": 43,
+    "archetype": "Everyman / Realist",
+    "profession": "Comedian",
+    "city": "Austin",
+    "message_type": "Funny",
+    "message": "43 and still figuring out Comedian? Classic Everyman / Realist energy!"
+  },
+  {
+    "age": 36,
+    "archetype": "Rebel / Maverick",
+    "profession": "Tutor",
+    "city": "Denver",
+    "message_type": "Motivational",
+    "message": "Rebel / Mavericks like you bring hope to Denver. Your Tutor path at 36 is inspiring."
+  },
+  {
+    "age": 35,
+    "archetype": "Sage / Philosopher",
+    "profession": "Veteran Outreach Specialist",
+    "city": "Los Angeles",
+    "message_type": "Funny",
+    "message": "At 35, being a Veteran Outreach Specialist in Los Angeles with a Sage / Philosopher streak? Comedy gold!"
+  },
+  {
+    "age": 37,
+    "archetype": "Explorer / Seeker",
+    "profession": "Mechanic",
+    "city": "Atlanta",
+    "message_type": "Professional",
+    "message": "In Atlanta, a Mechanic with the mindset of a Explorer / Seeker at 37 stands out with confidence."
+  },
+  {
+    "age": 32,
+    "archetype": "Ruler / Leader",
+    "profession": "Travel Blogger",
+    "city": "Austin",
+    "message_type": "Professional",
+    "message": "At 32, your Ruler / Leader perspective brings clarity and innovation to your role as a Travel Blogger in Austin."
+  },
+  {
+    "age": 30,
+    "archetype": "Magician / Visionary",
+    "profession": "Project Manager",
+    "city": "Detroit",
+    "message_type": "Funny",
+    "message": "Detroit isn't ready for a Magician / Visionary Project Manager at 30 \u2014 bring the chaos!"
+  },
+  {
+    "age": 43,
+    "archetype": "Orphan / Survivor",
+    "profession": "Musician",
+    "city": "Tampa",
+    "message_type": "Motivational",
+    "message": "Your journey as a Orphan / Survivor and Musician in Tampa at 43 is just beginning. Keep pushing forward!"
+  },
+  {
+    "age": 23,
+    "archetype": "Jester / Entertainer",
+    "profession": "Marketing Manager",
+    "city": "Houston",
+    "message_type": "Funny",
+    "message": "At 23, being a Marketing Manager in Houston with a Jester / Entertainer streak? Comedy gold!"
+  },
+  {
+    "age": 22,
+    "archetype": "Rebel / Maverick",
+    "profession": "Musician",
+    "city": "Atlanta",
+    "message_type": "Motivational",
+    "message": "Stay strong, 22-year-old Musician. Your Rebel / Maverick drive will lead you far in Atlanta."
+  },
+  {
+    "age": 38,
+    "archetype": "Thief / Trickster",
+    "profession": "Comedian",
+    "city": "Atlanta",
+    "message_type": "Professional",
+    "message": "At 38, your Thief / Trickster perspective brings clarity and innovation to your role as a Comedian in Atlanta."
+  },
+  {
+    "age": 24,
+    "archetype": "Magician / Visionary",
+    "profession": "AI Researcher",
+    "city": "Atlanta",
+    "message_type": "Funny",
+    "message": "At 24, being a AI Researcher in Atlanta with a Magician / Visionary streak? Comedy gold!"
+  },
+  {
+    "age": 29,
+    "archetype": "Innocent / Martyr",
+    "profession": "Engineer",
+    "city": "Seattle",
+    "message_type": "Professional",
+    "message": "Innocent / Martyrs make excellent Engineers \u2014 your impact in Seattle at 29 is unmatched."
+  },
+  {
+    "age": 40,
+    "archetype": "Thief / Trickster",
+    "profession": "Architect",
+    "city": "Las Vegas",
+    "message_type": "Motivational",
+    "message": "Thief / Tricksters like you bring hope to Las Vegas. Your Architect path at 40 is inspiring."
+  },
+  {
+    "age": 27,
+    "archetype": "Sage / Philosopher",
+    "profession": "Graduate Student",
+    "city": "Atlanta",
+    "message_type": "Funny",
+    "message": "Atlanta isn't ready for a Sage / Philosopher Graduate Student at 27 \u2014 bring the chaos!"
+  },
+  {
+    "age": 32,
+    "archetype": "Innocent / Martyr",
+    "profession": "Project Manager",
+    "city": "Boston",
+    "message_type": "Professional",
+    "message": "In Boston, a Project Manager with the mindset of a Innocent / Martyr at 32 stands out with confidence."
+  },
+  {
+    "age": 39,
+    "archetype": "Jester / Entertainer",
+    "profession": "Social Worker",
+    "city": "Tampa",
+    "message_type": "Motivational",
+    "message": "Stay strong, 39-year-old Social Worker. Your Jester / Entertainer drive will lead you far in Tampa."
+  },
+  {
+    "age": 28,
+    "archetype": "Explorer / Seeker",
+    "profession": "Startup Founder",
+    "city": "New York",
+    "message_type": "Motivational",
+    "message": "Stay strong, 28-year-old Startup Founder. Your Explorer / Seeker drive will lead you far in New York."
+  },
+  {
+    "age": 42,
+    "archetype": "Jester / Entertainer",
+    "profession": "Graduate Student",
+    "city": "Austin",
+    "message_type": "Professional",
+    "message": "In Austin, a Graduate Student with the mindset of a Jester / Entertainer at 42 stands out with confidence."
+  },
+  {
+    "age": 39,
+    "archetype": "Hero / Warrior",
+    "profession": "Mechanic",
+    "city": "Las Vegas",
+    "message_type": "Professional",
+    "message": "In Las Vegas, a Mechanic with the mindset of a Hero / Warrior at 39 stands out with confidence."
+  },
+  {
+    "age": 37,
+    "archetype": "Ruler / Leader",
+    "profession": "Comedian",
+    "city": "San Francisco",
+    "message_type": "Funny",
+    "message": "San Francisco isn't ready for a Ruler / Leader Comedian at 37 \u2014 bring the chaos!"
+  },
+  {
+    "age": 30,
+    "archetype": "Innocent / Martyr",
+    "profession": "Pediatrician",
+    "city": "Las Vegas",
+    "message_type": "Funny",
+    "message": "At 30, being a Pediatrician in Las Vegas with a Innocent / Martyr streak? Comedy gold!"
+  },
+  {
+    "age": 25,
+    "archetype": "Explorer / Seeker",
+    "profession": "Engineer",
+    "city": "Philadelphia",
+    "message_type": "Motivational",
+    "message": "Explorer / Seekers like you bring hope to Philadelphia. Your Engineer path at 25 is inspiring."
+  },
+  {
+    "age": 23,
+    "archetype": "Sage / Philosopher",
+    "profession": "Tutor",
+    "city": "Seattle",
+    "message_type": "Professional",
+    "message": "Sage / Philosophers make excellent Tutors \u2014 your impact in Seattle at 23 is unmatched."
+  },
+  {
+    "age": 28,
+    "archetype": "Sage / Philosopher",
+    "profession": "Project Manager",
+    "city": "Chicago",
+    "message_type": "Motivational",
+    "message": "Stay strong, 28-year-old Project Manager. Your Sage / Philosopher drive will lead you far in Chicago."
+  },
+  {
+    "age": 22,
+    "archetype": "Explorer / Seeker",
+    "profession": "Engineer",
+    "city": "Los Angeles",
+    "message_type": "Professional",
+    "message": "In Los Angeles, a Engineer with the mindset of a Explorer / Seeker at 22 stands out with confidence."
+  },
+  {
+    "age": 41,
+    "archetype": "Everyman / Realist",
+    "profession": "Mechanic",
+    "city": "Austin",
+    "message_type": "Professional",
+    "message": "In Austin, a Mechanic with the mindset of a Everyman / Realist at 41 stands out with confidence."
+  },
+  {
+    "age": 38,
+    "archetype": "Mentor / Teacher",
+    "profession": "Social Worker",
+    "city": "Austin",
+    "message_type": "Professional",
+    "message": "At 38, your Mentor / Teacher perspective brings clarity and innovation to your role as a Social Worker in Austin."
+  },
+  {
+    "age": 23,
+    "archetype": "Caregiver / Healer",
+    "profession": "Engineer",
+    "city": "Philadelphia",
+    "message_type": "Professional",
+    "message": "Caregiver / Healers make excellent Engineers \u2014 your impact in Philadelphia at 23 is unmatched."
+  },
+  {
+    "age": 40,
+    "archetype": "Everyman / Realist",
+    "profession": "AI Researcher",
+    "city": "San Francisco",
+    "message_type": "Professional",
+    "message": "At 40, your Everyman / Realist perspective brings clarity and innovation to your role as a AI Researcher in San Francisco."
+  },
+  {
+    "age": 29,
+    "archetype": "Magician / Visionary",
+    "profession": "Veteran Outreach Specialist",
+    "city": "Austin",
+    "message_type": "Professional",
+    "message": "In Austin, a Veteran Outreach Specialist with the mindset of a Magician / Visionary at 29 stands out with confidence."
+  },
+  {
+    "age": 40,
+    "archetype": "Ruler / Leader",
+    "profession": "Travel Blogger",
+    "city": "San Francisco",
+    "message_type": "Professional",
+    "message": "In San Francisco, a Travel Blogger with the mindset of a Ruler / Leader at 40 stands out with confidence."
+  },
+  {
+    "age": 41,
+    "archetype": "Innocent / Martyr",
+    "profession": "Comedian",
+    "city": "Tampa",
+    "message_type": "Funny",
+    "message": "41 and still figuring out Comedian? Classic Innocent / Martyr energy!"
+  },
+  {
+    "age": 40,
+    "archetype": "Magician / Visionary",
+    "profession": "Graduate Student",
+    "city": "Detroit",
+    "message_type": "Funny",
+    "message": "40 and still figuring out Graduate Student? Classic Magician / Visionary energy!"
+  },
+  {
+    "age": 36,
+    "archetype": "Mentor / Teacher",
+    "profession": "AI Researcher",
+    "city": "Philadelphia",
+    "message_type": "Motivational",
+    "message": "Mentor / Teachers like you bring hope to Philadelphia. Your AI Researcher path at 36 is inspiring."
+  },
+  {
+    "age": 39,
+    "archetype": "Innocent / Martyr",
+    "profession": "Architect",
+    "city": "Austin",
+    "message_type": "Motivational",
+    "message": "Your journey as a Innocent / Martyr and Architect in Austin at 39 is just beginning. Keep pushing forward!"
+  },
+  {
+    "age": 36,
+    "archetype": "Sage / Philosopher",
+    "profession": "Project Manager",
+    "city": "Chicago",
+    "message_type": "Motivational",
+    "message": "Stay strong, 36-year-old Project Manager. Your Sage / Philosopher drive will lead you far in Chicago."
+  },
+  {
+    "age": 43,
+    "archetype": "Sage / Philosopher",
+    "profession": "Pediatrician",
+    "city": "New York",
+    "message_type": "Funny",
+    "message": "43 and still figuring out Pediatrician? Classic Sage / Philosopher energy!"
+  },
+  {
+    "age": 22,
+    "archetype": "Magician / Visionary",
+    "profession": "Pediatrician",
+    "city": "Denver",
+    "message_type": "Professional",
+    "message": "At 22, your Magician / Visionary perspective brings clarity and innovation to your role as a Pediatrician in Denver."
+  },
+  {
+    "age": 25,
+    "archetype": "Mentor / Teacher",
+    "profession": "Marketing Manager",
+    "city": "San Francisco",
+    "message_type": "Motivational",
+    "message": "Stay strong, 25-year-old Marketing Manager. Your Mentor / Teacher drive will lead you far in San Francisco."
+  },
+  {
+    "age": 38,
+    "archetype": "Mentor / Teacher",
+    "profession": "Mechanic",
+    "city": "Philadelphia",
+    "message_type": "Professional",
+    "message": "At 38, your Mentor / Teacher perspective brings clarity and innovation to your role as a Mechanic in Philadelphia."
+  },
+  {
+    "age": 39,
+    "archetype": "Caregiver / Healer",
+    "profession": "Software Developer",
+    "city": "Berkeley",
+    "message_type": "Professional",
+    "message": "At 39, your Caregiver / Healer perspective brings clarity and innovation to your role as a Software Developer in Berkeley."
+  },
+  {
+    "age": 39,
+    "archetype": "Hero / Warrior",
+    "profession": "AI Researcher",
+    "city": "Atlanta",
+    "message_type": "Motivational",
+    "message": "Hero / Warriors like you bring hope to Atlanta. Your AI Researcher path at 39 is inspiring."
+  },
+  {
+    "age": 24,
+    "archetype": "Ruler / Leader",
+    "profession": "Marketing Manager",
+    "city": "Atlanta",
+    "message_type": "Professional",
+    "message": "At 24, your Ruler / Leader perspective brings clarity and innovation to your role as a Marketing Manager in Atlanta."
+  },
+  {
+    "age": 31,
+    "archetype": "Everyman / Realist",
+    "profession": "Software Developer",
+    "city": "Detroit",
+    "message_type": "Professional",
+    "message": "Everyman / Realists make excellent Software Developers \u2014 your impact in Detroit at 31 is unmatched."
+  },
+  {
+    "age": 31,
+    "archetype": "Mentor / Teacher",
+    "profession": "Startup Founder",
+    "city": "Chicago",
+    "message_type": "Motivational",
+    "message": "Mentor / Teachers like you bring hope to Chicago. Your Startup Founder path at 31 is inspiring."
+  },
+  {
+    "age": 33,
+    "archetype": "Caregiver / Healer",
+    "profession": "Pediatrician",
+    "city": "Philadelphia",
+    "message_type": "Motivational",
+    "message": "Stay strong, 33-year-old Pediatrician. Your Caregiver / Healer drive will lead you far in Philadelphia."
+  },
+  {
+    "age": 28,
+    "archetype": "Everyman / Realist",
+    "profession": "Project Manager",
+    "city": "Tampa",
+    "message_type": "Motivational",
+    "message": "Everyman / Realists like you bring hope to Tampa. Your Project Manager path at 28 is inspiring."
+  },
+  {
+    "age": 36,
+    "archetype": "Thief / Trickster",
+    "profession": "Social Worker",
+    "city": "Las Vegas",
+    "message_type": "Motivational",
+    "message": "Thief / Tricksters like you bring hope to Las Vegas. Your Social Worker path at 36 is inspiring."
+  },
+  {
+    "age": 43,
+    "archetype": "Everyman / Realist",
+    "profession": "Chef",
+    "city": "Atlanta",
+    "message_type": "Funny",
+    "message": "43 and still figuring out Chef? Classic Everyman / Realist energy!"
+  },
+  {
+    "age": 44,
+    "archetype": "Caregiver / Healer",
+    "profession": "Engineer",
+    "city": "Chicago",
+    "message_type": "Motivational",
+    "message": "Your journey as a Caregiver / Healer and Engineer in Chicago at 44 is just beginning. Keep pushing forward!"
+  },
+  {
+    "age": 38,
+    "archetype": "Innocent / Martyr",
+    "profession": "Veteran Outreach Specialist",
+    "city": "Denver",
+    "message_type": "Funny",
+    "message": "At 38, being a Veteran Outreach Specialist in Denver with a Innocent / Martyr streak? Comedy gold!"
+  },
+  {
+    "age": 41,
+    "archetype": "Creator / Architect",
+    "profession": "Startup Founder",
+    "city": "Atlanta",
+    "message_type": "Professional",
+    "message": "At 41, your Creator / Architect perspective brings clarity and innovation to your role as a Startup Founder in Atlanta."
+  },
+  {
+    "age": 22,
+    "archetype": "Caregiver / Healer",
+    "profession": "Therapist",
+    "city": "Los Angeles",
+    "message_type": "Professional",
+    "message": "In Los Angeles, a Therapist with the mindset of a Caregiver / Healer at 22 stands out with confidence."
+  },
+  {
+    "age": 28,
+    "archetype": "Creator / Architect",
+    "profession": "Musician",
+    "city": "Philadelphia",
+    "message_type": "Motivational",
+    "message": "Stay strong, 28-year-old Musician. Your Creator / Architect drive will lead you far in Philadelphia."
+  },
+  {
+    "age": 33,
+    "archetype": "Creator / Architect",
+    "profession": "Nurse",
+    "city": "Chicago",
+    "message_type": "Funny",
+    "message": "At 33, being a Nurse in Chicago with a Creator / Architect streak? Comedy gold!"
+  },
+  {
+    "age": 41,
+    "archetype": "Magician / Visionary",
+    "profession": "Travel Blogger",
+    "city": "Denver",
+    "message_type": "Professional",
+    "message": "At 41, your Magician / Visionary perspective brings clarity and innovation to your role as a Travel Blogger in Denver."
+  },
+  {
+    "age": 44,
+    "archetype": "Explorer / Seeker",
+    "profession": "Marketing Manager",
+    "city": "Denver",
+    "message_type": "Funny",
+    "message": "At 44, being a Marketing Manager in Denver with a Explorer / Seeker streak? Comedy gold!"
+  },
+  {
+    "age": 42,
+    "archetype": "Thief / Trickster",
+    "profession": "Project Manager",
+    "city": "Detroit",
+    "message_type": "Motivational",
+    "message": "Your journey as a Thief / Trickster and Project Manager in Detroit at 42 is just beginning. Keep pushing forward!"
+  },
+  {
+    "age": 24,
+    "archetype": "Orphan / Survivor",
+    "profession": "AI Researcher",
+    "city": "Philadelphia",
+    "message_type": "Professional",
+    "message": "Orphan / Survivors make excellent AI Researchers \u2014 your impact in Philadelphia at 24 is unmatched."
+  },
+  {
+    "age": 41,
+    "archetype": "Creator / Architect",
+    "profession": "Graduate Student",
+    "city": "Detroit",
+    "message_type": "Professional",
+    "message": "At 41, your Creator / Architect perspective brings clarity and innovation to your role as a Graduate Student in Detroit."
+  },
+  {
+    "age": 24,
+    "archetype": "Magician / Visionary",
+    "profession": "Project Manager",
+    "city": "Denver",
+    "message_type": "Funny",
+    "message": "At 24, being a Project Manager in Denver with a Magician / Visionary streak? Comedy gold!"
+  },
+  {
+    "age": 38,
+    "archetype": "Creator / Architect",
+    "profession": "Mechanic",
+    "city": "Detroit",
+    "message_type": "Professional",
+    "message": "Creator / Architects make excellent Mechanics \u2014 your impact in Detroit at 38 is unmatched."
+  },
+  {
+    "age": 26,
+    "archetype": "Jester / Entertainer",
+    "profession": "Veteran Outreach Specialist",
+    "city": "Philadelphia",
+    "message_type": "Professional",
+    "message": "Jester / Entertainers make excellent Veteran Outreach Specialists \u2014 your impact in Philadelphia at 26 is unmatched."
+  },
+  {
+    "age": 31,
+    "archetype": "Hero / Warrior",
+    "profession": "Travel Blogger",
+    "city": "Las Vegas",
+    "message_type": "Professional",
+    "message": "At 31, your Hero / Warrior perspective brings clarity and innovation to your role as a Travel Blogger in Las Vegas."
+  },
+  {
+    "age": 40,
+    "archetype": "Caregiver / Healer",
+    "profession": "Journalist",
+    "city": "Philadelphia",
+    "message_type": "Professional",
+    "message": "Caregiver / Healers make excellent Journalists \u2014 your impact in Philadelphia at 40 is unmatched."
+  },
+  {
+    "age": 30,
+    "archetype": "Mentor / Teacher",
+    "profession": "Social Worker",
+    "city": "Tampa",
+    "message_type": "Motivational",
+    "message": "Mentor / Teachers like you bring hope to Tampa. Your Social Worker path at 30 is inspiring."
+  },
+  {
+    "age": 29,
+    "archetype": "Lover / Companion",
+    "profession": "Veteran Outreach Specialist",
+    "city": "Denver",
+    "message_type": "Motivational",
+    "message": "Lover / Companions like you bring hope to Denver. Your Veteran Outreach Specialist path at 29 is inspiring."
+  },
+  {
+    "age": 34,
+    "archetype": "Sage / Philosopher",
+    "profession": "Marketing Manager",
+    "city": "Boston",
+    "message_type": "Professional",
+    "message": "Sage / Philosophers make excellent Marketing Managers \u2014 your impact in Boston at 34 is unmatched."
+  },
+  {
+    "age": 26,
+    "archetype": "Ruler / Leader",
+    "profession": "Software Developer",
+    "city": "San Francisco",
+    "message_type": "Professional",
+    "message": "At 26, your Ruler / Leader perspective brings clarity and innovation to your role as a Software Developer in San Francisco."
+  },
+  {
+    "age": 34,
+    "archetype": "Creator / Architect",
+    "profession": "Journalist",
+    "city": "Los Angeles",
+    "message_type": "Professional",
+    "message": "At 34, your Creator / Architect perspective brings clarity and innovation to your role as a Journalist in Los Angeles."
+  },
+  {
+    "age": 26,
+    "archetype": "Creator / Architect",
+    "profession": "Nurse",
+    "city": "Atlanta",
+    "message_type": "Motivational",
+    "message": "Stay strong, 26-year-old Nurse. Your Creator / Architect drive will lead you far in Atlanta."
+  },
+  {
+    "age": 33,
+    "archetype": "Sage / Philosopher",
+    "profession": "Startup Founder",
+    "city": "Los Angeles",
+    "message_type": "Professional",
+    "message": "At 33, your Sage / Philosopher perspective brings clarity and innovation to your role as a Startup Founder in Los Angeles."
+  },
+  {
+    "age": 35,
+    "archetype": "Jester / Entertainer",
+    "profession": "Tutor",
+    "city": "Denver",
+    "message_type": "Funny",
+    "message": "Denver isn't ready for a Jester / Entertainer Tutor at 35 \u2014 bring the chaos!"
+  },
+  {
+    "age": 33,
+    "archetype": "Jester / Entertainer",
+    "profession": "Project Manager",
+    "city": "Seattle",
+    "message_type": "Funny",
+    "message": "At 33, being a Project Manager in Seattle with a Jester / Entertainer streak? Comedy gold!"
+  },
+  {
+    "age": 30,
+    "archetype": "Innocent / Martyr",
+    "profession": "Project Manager",
+    "city": "San Francisco",
+    "message_type": "Funny",
+    "message": "San Francisco isn't ready for a Innocent / Martyr Project Manager at 30 \u2014 bring the chaos!"
+  },
+  {
+    "age": 42,
+    "archetype": "Rebel / Maverick",
+    "profession": "Comedian",
+    "city": "San Francisco",
+    "message_type": "Professional",
+    "message": "In San Francisco, a Comedian with the mindset of a Rebel / Maverick at 42 stands out with confidence."
+  },
+  {
+    "age": 36,
+    "archetype": "Explorer / Seeker",
+    "profession": "Comedian",
+    "city": "Tampa",
+    "message_type": "Motivational",
+    "message": "Your journey as a Explorer / Seeker and Comedian in Tampa at 36 is just beginning. Keep pushing forward!"
+  },
+  {
+    "age": 35,
+    "archetype": "Innocent / Martyr",
+    "profession": "Veteran Outreach Specialist",
+    "city": "New York",
+    "message_type": "Professional",
+    "message": "In New York, a Veteran Outreach Specialist with the mindset of a Innocent / Martyr at 35 stands out with confidence."
+  },
+  {
+    "age": 26,
+    "archetype": "Hero / Warrior",
+    "profession": "Veteran Outreach Specialist",
+    "city": "Las Vegas",
+    "message_type": "Motivational",
+    "message": "Hero / Warriors like you bring hope to Las Vegas. Your Veteran Outreach Specialist path at 26 is inspiring."
+  },
+  {
+    "age": 27,
+    "archetype": "Creator / Architect",
+    "profession": "Graduate Student",
+    "city": "Detroit",
+    "message_type": "Professional",
+    "message": "In Detroit, a Graduate Student with the mindset of a Creator / Architect at 27 stands out with confidence."
+  },
+  {
+    "age": 35,
+    "archetype": "Rebel / Maverick",
+    "profession": "Marketing Manager",
+    "city": "New York",
+    "message_type": "Funny",
+    "message": "At 35, being a Marketing Manager in New York with a Rebel / Maverick streak? Comedy gold!"
+  },
+  {
+    "age": 39,
+    "archetype": "Rebel / Maverick",
+    "profession": "AI Researcher",
+    "city": "Chicago",
+    "message_type": "Motivational",
+    "message": "Rebel / Mavericks like you bring hope to Chicago. Your AI Researcher path at 39 is inspiring."
+  },
+  {
+    "age": 34,
+    "archetype": "Creator / Architect",
+    "profession": "Startup Founder",
+    "city": "Los Angeles",
+    "message_type": "Motivational",
+    "message": "Creator / Architects like you bring hope to Los Angeles. Your Startup Founder path at 34 is inspiring."
+  },
+  {
+    "age": 35,
+    "archetype": "Rebel / Maverick",
+    "profession": "Architect",
+    "city": "Las Vegas",
+    "message_type": "Motivational",
+    "message": "Stay strong, 35-year-old Architect. Your Rebel / Maverick drive will lead you far in Las Vegas."
+  },
+  {
+    "age": 36,
+    "archetype": "Magician / Visionary",
+    "profession": "Engineer",
+    "city": "Seattle",
+    "message_type": "Professional",
+    "message": "Magician / Visionarys make excellent Engineers \u2014 your impact in Seattle at 36 is unmatched."
+  },
+  {
+    "age": 34,
+    "archetype": "Hero / Warrior",
+    "profession": "Comedian",
+    "city": "Atlanta",
+    "message_type": "Professional",
+    "message": "In Atlanta, a Comedian with the mindset of a Hero / Warrior at 34 stands out with confidence."
+  },
+  {
+    "age": 26,
+    "archetype": "Orphan / Survivor",
+    "profession": "Startup Founder",
+    "city": "Tampa",
+    "message_type": "Professional",
+    "message": "Orphan / Survivors make excellent Startup Founders \u2014 your impact in Tampa at 26 is unmatched."
+  },
+  {
+    "age": 33,
+    "archetype": "Ruler / Leader",
+    "profession": "Therapist",
+    "city": "Houston",
+    "message_type": "Funny",
+    "message": "33 and still figuring out Therapist? Classic Ruler / Leader energy!"
+  },
+  {
+    "age": 31,
+    "archetype": "Creator / Architect",
+    "profession": "Social Worker",
+    "city": "Atlanta",
+    "message_type": "Professional",
+    "message": "In Atlanta, a Social Worker with the mindset of a Creator / Architect at 31 stands out with confidence."
+  },
+  {
+    "age": 22,
+    "archetype": "Rebel / Maverick",
+    "profession": "Tutor",
+    "city": "Atlanta",
+    "message_type": "Professional",
+    "message": "Rebel / Mavericks make excellent Tutors \u2014 your impact in Atlanta at 22 is unmatched."
+  },
+  {
+    "age": 29,
+    "archetype": "Mentor / Teacher",
+    "profession": "Mechanic",
+    "city": "Seattle",
+    "message_type": "Funny",
+    "message": "At 29, being a Mechanic in Seattle with a Mentor / Teacher streak? Comedy gold!"
+  },
+  {
+    "age": 25,
+    "archetype": "Lover / Companion",
+    "profession": "Graduate Student",
+    "city": "Berkeley",
+    "message_type": "Motivational",
+    "message": "Your journey as a Lover / Companion and Graduate Student in Berkeley at 25 is just beginning. Keep pushing forward!"
+  },
+  {
+    "age": 35,
+    "archetype": "Sage / Philosopher",
+    "profession": "AI Researcher",
+    "city": "Denver",
+    "message_type": "Funny",
+    "message": "Denver isn't ready for a Sage / Philosopher AI Researcher at 35 \u2014 bring the chaos!"
+  },
+  {
+    "age": 44,
+    "archetype": "Mentor / Teacher",
+    "profession": "Software Developer",
+    "city": "Austin",
+    "message_type": "Motivational",
+    "message": "Your journey as a Mentor / Teacher and Software Developer in Austin at 44 is just beginning. Keep pushing forward!"
+  },
+  {
+    "age": 32,
+    "archetype": "Sage / Philosopher",
+    "profession": "Pediatrician",
+    "city": "Detroit",
+    "message_type": "Motivational",
+    "message": "Sage / Philosophers like you bring hope to Detroit. Your Pediatrician path at 32 is inspiring."
+  },
+  {
+    "age": 34,
+    "archetype": "Creator / Architect",
+    "profession": "Chef",
+    "city": "Berkeley",
+    "message_type": "Professional",
+    "message": "Creator / Architects make excellent Chefs \u2014 your impact in Berkeley at 34 is unmatched."
+  },
+  {
+    "age": 32,
+    "archetype": "Explorer / Seeker",
+    "profession": "Tutor",
+    "city": "Los Angeles",
+    "message_type": "Professional",
+    "message": "At 32, your Explorer / Seeker perspective brings clarity and innovation to your role as a Tutor in Los Angeles."
+  },
+  {
+    "age": 41,
+    "archetype": "Sage / Philosopher",
+    "profession": "Engineer",
+    "city": "Philadelphia",
+    "message_type": "Professional",
+    "message": "In Philadelphia, a Engineer with the mindset of a Sage / Philosopher at 41 stands out with confidence."
+  },
+  {
+    "age": 34,
+    "archetype": "Ruler / Leader",
+    "profession": "Software Developer",
+    "city": "Boston",
+    "message_type": "Professional",
+    "message": "At 34, your Ruler / Leader perspective brings clarity and innovation to your role as a Software Developer in Boston."
+  },
+  {
+    "age": 30,
+    "archetype": "Hero / Warrior",
+    "profession": "AI Researcher",
+    "city": "Philadelphia",
+    "message_type": "Funny",
+    "message": "Philadelphia isn't ready for a Hero / Warrior AI Researcher at 30 \u2014 bring the chaos!"
+  },
+  {
+    "age": 36,
+    "archetype": "Thief / Trickster",
+    "profession": "Social Worker",
+    "city": "New York",
+    "message_type": "Motivational",
+    "message": "Thief / Tricksters like you bring hope to New York. Your Social Worker path at 36 is inspiring."
+  },
+  {
+    "age": 34,
+    "archetype": "Explorer / Seeker",
+    "profession": "AI Researcher",
+    "city": "Austin",
+    "message_type": "Funny",
+    "message": "At 34, being a AI Researcher in Austin with a Explorer / Seeker streak? Comedy gold!"
+  },
+  {
+    "age": 44,
+    "archetype": "Rebel / Maverick",
+    "profession": "Pediatrician",
+    "city": "Boston",
+    "message_type": "Professional",
+    "message": "In Boston, a Pediatrician with the mindset of a Rebel / Maverick at 44 stands out with confidence."
+  },
+  {
+    "age": 40,
+    "archetype": "Orphan / Survivor",
+    "profession": "Software Developer",
+    "city": "Atlanta",
+    "message_type": "Professional",
+    "message": "In Atlanta, a Software Developer with the mindset of a Orphan / Survivor at 40 stands out with confidence."
+  },
+  {
+    "age": 23,
+    "archetype": "Jester / Entertainer",
+    "profession": "Nurse",
+    "city": "Boston",
+    "message_type": "Funny",
+    "message": "At 23, being a Nurse in Boston with a Jester / Entertainer streak? Comedy gold!"
+  },
+  {
+    "age": 30,
+    "archetype": "Mentor / Teacher",
+    "profession": "AI Researcher",
+    "city": "Philadelphia",
+    "message_type": "Motivational",
+    "message": "Stay strong, 30-year-old AI Researcher. Your Mentor / Teacher drive will lead you far in Philadelphia."
+  },
+  {
+    "age": 41,
+    "archetype": "Magician / Visionary",
+    "profession": "Therapist",
+    "city": "Atlanta",
+    "message_type": "Funny",
+    "message": "At 41, being a Therapist in Atlanta with a Magician / Visionary streak? Comedy gold!"
+  },
+  {
+    "age": 24,
+    "archetype": "Explorer / Seeker",
+    "profession": "Travel Blogger",
+    "city": "Las Vegas",
+    "message_type": "Professional",
+    "message": "At 24, your Explorer / Seeker perspective brings clarity and innovation to your role as a Travel Blogger in Las Vegas."
+  },
+  {
+    "age": 40,
+    "archetype": "Orphan / Survivor",
+    "profession": "Graduate Student",
+    "city": "Denver",
+    "message_type": "Funny",
+    "message": "40 and still figuring out Graduate Student? Classic Orphan / Survivor energy!"
+  },
+  {
+    "age": 22,
+    "archetype": "Thief / Trickster",
+    "profession": "Software Developer",
+    "city": "Los Angeles",
+    "message_type": "Funny",
+    "message": "Los Angeles isn't ready for a Thief / Trickster Software Developer at 22 \u2014 bring the chaos!"
+  },
+  {
+    "age": 44,
+    "archetype": "Orphan / Survivor",
+    "profession": "Pediatrician",
+    "city": "Houston",
+    "message_type": "Motivational",
+    "message": "Orphan / Survivors like you bring hope to Houston. Your Pediatrician path at 44 is inspiring."
+  },
+  {
+    "age": 34,
+    "archetype": "Hero / Warrior",
+    "profession": "Tutor",
+    "city": "Chicago",
+    "message_type": "Professional",
+    "message": "In Chicago, a Tutor with the mindset of a Hero / Warrior at 34 stands out with confidence."
+  },
+  {
+    "age": 23,
+    "archetype": "Creator / Architect",
+    "profession": "Chef",
+    "city": "Atlanta",
+    "message_type": "Motivational",
+    "message": "Stay strong, 23-year-old Chef. Your Creator / Architect drive will lead you far in Atlanta."
+  },
+  {
+    "age": 43,
+    "archetype": "Rebel / Maverick",
+    "profession": "Graduate Student",
+    "city": "Detroit",
+    "message_type": "Motivational",
+    "message": "Your journey as a Rebel / Maverick and Graduate Student in Detroit at 43 is just beginning. Keep pushing forward!"
+  },
+  {
+    "age": 29,
+    "archetype": "Explorer / Seeker",
+    "profession": "Therapist",
+    "city": "New York",
+    "message_type": "Funny",
+    "message": "At 29, being a Therapist in New York with a Explorer / Seeker streak? Comedy gold!"
+  },
+  {
+    "age": 44,
+    "archetype": "Orphan / Survivor",
+    "profession": "Veteran Outreach Specialist",
+    "city": "Austin",
+    "message_type": "Funny",
+    "message": "Austin isn't ready for a Orphan / Survivor Veteran Outreach Specialist at 44 \u2014 bring the chaos!"
+  },
+  {
+    "age": 22,
+    "archetype": "Explorer / Seeker",
+    "profession": "Pediatrician",
+    "city": "Seattle",
+    "message_type": "Motivational",
+    "message": "Explorer / Seekers like you bring hope to Seattle. Your Pediatrician path at 22 is inspiring."
+  },
+  {
+    "age": 39,
+    "archetype": "Thief / Trickster",
+    "profession": "Engineer",
+    "city": "Houston",
+    "message_type": "Funny",
+    "message": "Houston isn't ready for a Thief / Trickster Engineer at 39 \u2014 bring the chaos!"
+  },
+  {
+    "age": 31,
+    "archetype": "Orphan / Survivor",
+    "profession": "Pediatrician",
+    "city": "Los Angeles",
+    "message_type": "Professional",
+    "message": "At 31, your Orphan / Survivor perspective brings clarity and innovation to your role as a Pediatrician in Los Angeles."
+  },
+  {
+    "age": 30,
+    "archetype": "Rebel / Maverick",
+    "profession": "Therapist",
+    "city": "Chicago",
+    "message_type": "Motivational",
+    "message": "Stay strong, 30-year-old Therapist. Your Rebel / Maverick drive will lead you far in Chicago."
+  },
+  {
+    "age": 38,
+    "archetype": "Creator / Architect",
+    "profession": "Therapist",
+    "city": "San Francisco",
+    "message_type": "Motivational",
+    "message": "Creator / Architects like you bring hope to San Francisco. Your Therapist path at 38 is inspiring."
+  },
+  {
+    "age": 38,
+    "archetype": "Innocent / Martyr",
+    "profession": "Musician",
+    "city": "Tampa",
+    "message_type": "Motivational",
+    "message": "Innocent / Martyrs like you bring hope to Tampa. Your Musician path at 38 is inspiring."
+  },
+  {
+    "age": 28,
+    "archetype": "Thief / Trickster",
+    "profession": "Veteran Outreach Specialist",
+    "city": "Detroit",
+    "message_type": "Motivational",
+    "message": "Thief / Tricksters like you bring hope to Detroit. Your Veteran Outreach Specialist path at 28 is inspiring."
+  },
+  {
+    "age": 38,
+    "archetype": "Jester / Entertainer",
+    "profession": "AI Researcher",
+    "city": "Seattle",
+    "message_type": "Funny",
+    "message": "Seattle isn't ready for a Jester / Entertainer AI Researcher at 38 \u2014 bring the chaos!"
+  },
+  {
+    "age": 38,
+    "archetype": "Jester / Entertainer",
+    "profession": "Software Developer",
+    "city": "New York",
+    "message_type": "Motivational",
+    "message": "Jester / Entertainers like you bring hope to New York. Your Software Developer path at 38 is inspiring."
+  },
+  {
+    "age": 38,
+    "archetype": "Ruler / Leader",
+    "profession": "Chef",
+    "city": "Boston",
+    "message_type": "Motivational",
+    "message": "Ruler / Leaders like you bring hope to Boston. Your Chef path at 38 is inspiring."
+  },
+  {
+    "age": 39,
+    "archetype": "Creator / Architect",
+    "profession": "Mechanic",
+    "city": "Los Angeles",
+    "message_type": "Motivational",
+    "message": "Creator / Architects like you bring hope to Los Angeles. Your Mechanic path at 39 is inspiring."
+  },
+  {
+    "age": 33,
+    "archetype": "Jester / Entertainer",
+    "profession": "Mechanic",
+    "city": "Boston",
+    "message_type": "Motivational",
+    "message": "Your journey as a Jester / Entertainer and Mechanic in Boston at 33 is just beginning. Keep pushing forward!"
+  },
+  {
+    "age": 43,
+    "archetype": "Caregiver / Healer",
+    "profession": "Therapist",
+    "city": "Las Vegas",
+    "message_type": "Motivational",
+    "message": "Your journey as a Caregiver / Healer and Therapist in Las Vegas at 43 is just beginning. Keep pushing forward!"
+  },
+  {
+    "age": 24,
+    "archetype": "Lover / Companion",
+    "profession": "Engineer",
+    "city": "Atlanta",
+    "message_type": "Funny",
+    "message": "At 24, being a Engineer in Atlanta with a Lover / Companion streak? Comedy gold!"
+  },
+  {
+    "age": 32,
+    "archetype": "Innocent / Martyr",
+    "profession": "Musician",
+    "city": "Austin",
+    "message_type": "Professional",
+    "message": "Innocent / Martyrs make excellent Musicians \u2014 your impact in Austin at 32 is unmatched."
+  },
+  {
+    "age": 27,
+    "archetype": "Thief / Trickster",
+    "profession": "Marketing Manager",
+    "city": "Houston",
+    "message_type": "Professional",
+    "message": "Thief / Tricksters make excellent Marketing Managers \u2014 your impact in Houston at 27 is unmatched."
+  },
+  {
+    "age": 25,
+    "archetype": "Thief / Trickster",
+    "profession": "Architect",
+    "city": "San Francisco",
+    "message_type": "Motivational",
+    "message": "Thief / Tricksters like you bring hope to San Francisco. Your Architect path at 25 is inspiring."
+  },
+  {
+    "age": 26,
+    "archetype": "Sage / Philosopher",
+    "profession": "Startup Founder",
+    "city": "Denver",
+    "message_type": "Motivational",
+    "message": "Sage / Philosophers like you bring hope to Denver. Your Startup Founder path at 26 is inspiring."
+  },
+  {
+    "age": 29,
+    "archetype": "Hero / Warrior",
+    "profession": "Mechanic",
+    "city": "Seattle",
+    "message_type": "Motivational",
+    "message": "Your journey as a Hero / Warrior and Mechanic in Seattle at 29 is just beginning. Keep pushing forward!"
+  },
+  {
+    "age": 37,
+    "archetype": "Orphan / Survivor",
+    "profession": "Travel Blogger",
+    "city": "Austin",
+    "message_type": "Motivational",
+    "message": "Your journey as a Orphan / Survivor and Travel Blogger in Austin at 37 is just beginning. Keep pushing forward!"
+  },
+  {
+    "age": 38,
+    "archetype": "Hero / Warrior",
+    "profession": "Engineer",
+    "city": "Los Angeles",
+    "message_type": "Professional",
+    "message": "At 38, your Hero / Warrior perspective brings clarity and innovation to your role as a Engineer in Los Angeles."
+  },
+  {
+    "age": 35,
+    "archetype": "Everyman / Realist",
+    "profession": "Graduate Student",
+    "city": "Detroit",
+    "message_type": "Professional",
+    "message": "Everyman / Realists make excellent Graduate Students \u2014 your impact in Detroit at 35 is unmatched."
+  },
+  {
+    "age": 38,
+    "archetype": "Thief / Trickster",
+    "profession": "Musician",
+    "city": "Austin",
+    "message_type": "Professional",
+    "message": "In Austin, a Musician with the mindset of a Thief / Trickster at 38 stands out with confidence."
+  },
+  {
+    "age": 28,
+    "archetype": "Sage / Philosopher",
+    "profession": "Travel Blogger",
+    "city": "Houston",
+    "message_type": "Professional",
+    "message": "In Houston, a Travel Blogger with the mindset of a Sage / Philosopher at 28 stands out with confidence."
+  },
+  {
+    "age": 43,
+    "archetype": "Mentor / Teacher",
+    "profession": "Travel Blogger",
+    "city": "Detroit",
+    "message_type": "Funny",
+    "message": "43 and still figuring out Travel Blogger? Classic Mentor / Teacher energy!"
+  },
+  {
+    "age": 38,
+    "archetype": "Lover / Companion",
+    "profession": "Tutor",
+    "city": "Detroit",
+    "message_type": "Funny",
+    "message": "At 38, being a Tutor in Detroit with a Lover / Companion streak? Comedy gold!"
+  },
+  {
+    "age": 36,
+    "archetype": "Thief / Trickster",
+    "profession": "Journalist",
+    "city": "Philadelphia",
+    "message_type": "Motivational",
+    "message": "Your journey as a Thief / Trickster and Journalist in Philadelphia at 36 is just beginning. Keep pushing forward!"
+  },
+  {
+    "age": 41,
+    "archetype": "Hero / Warrior",
+    "profession": "Engineer",
+    "city": "Berkeley",
+    "message_type": "Funny",
+    "message": "41 and still figuring out Engineer? Classic Hero / Warrior energy!"
+  },
+  {
+    "age": 39,
+    "archetype": "Caregiver / Healer",
+    "profession": "Pediatrician",
+    "city": "Detroit",
+    "message_type": "Motivational",
+    "message": "Stay strong, 39-year-old Pediatrician. Your Caregiver / Healer drive will lead you far in Detroit."
+  },
+  {
+    "age": 26,
+    "archetype": "Everyman / Realist",
+    "profession": "Startup Founder",
+    "city": "Atlanta",
+    "message_type": "Professional",
+    "message": "Everyman / Realists make excellent Startup Founders \u2014 your impact in Atlanta at 26 is unmatched."
+  },
+  {
+    "age": 25,
+    "archetype": "Orphan / Survivor",
+    "profession": "Mechanic",
+    "city": "Berkeley",
+    "message_type": "Professional",
+    "message": "At 25, your Orphan / Survivor perspective brings clarity and innovation to your role as a Mechanic in Berkeley."
+  },
+  {
+    "age": 40,
+    "archetype": "Hero / Warrior",
+    "profession": "AI Researcher",
+    "city": "Austin",
+    "message_type": "Motivational",
+    "message": "Hero / Warriors like you bring hope to Austin. Your AI Researcher path at 40 is inspiring."
+  },
+  {
+    "age": 40,
+    "archetype": "Thief / Trickster",
+    "profession": "Chef",
+    "city": "Boston",
+    "message_type": "Professional",
+    "message": "Thief / Tricksters make excellent Chefs \u2014 your impact in Boston at 40 is unmatched."
+  },
+  {
+    "age": 26,
+    "archetype": "Orphan / Survivor",
+    "profession": "Pediatrician",
+    "city": "Austin",
+    "message_type": "Funny",
+    "message": "At 26, being a Pediatrician in Austin with a Orphan / Survivor streak? Comedy gold!"
+  },
+  {
+    "age": 41,
+    "archetype": "Rebel / Maverick",
+    "profession": "Startup Founder",
+    "city": "Atlanta",
+    "message_type": "Motivational",
+    "message": "Rebel / Mavericks like you bring hope to Atlanta. Your Startup Founder path at 41 is inspiring."
+  },
+  {
+    "age": 22,
+    "archetype": "Jester / Entertainer",
+    "profession": "AI Researcher",
+    "city": "Las Vegas",
+    "message_type": "Motivational",
+    "message": "Jester / Entertainers like you bring hope to Las Vegas. Your AI Researcher path at 22 is inspiring."
+  },
+  {
+    "age": 40,
+    "archetype": "Lover / Companion",
+    "profession": "Marketing Manager",
+    "city": "Austin",
+    "message_type": "Funny",
+    "message": "Austin isn't ready for a Lover / Companion Marketing Manager at 40 \u2014 bring the chaos!"
+  },
+  {
+    "age": 32,
+    "archetype": "Creator / Architect",
+    "profession": "Social Worker",
+    "city": "Berkeley",
+    "message_type": "Funny",
+    "message": "At 32, being a Social Worker in Berkeley with a Creator / Architect streak? Comedy gold!"
+  },
+  {
+    "age": 44,
+    "archetype": "Jester / Entertainer",
+    "profession": "Travel Blogger",
+    "city": "Houston",
+    "message_type": "Motivational",
+    "message": "Stay strong, 44-year-old Travel Blogger. Your Jester / Entertainer drive will lead you far in Houston."
+  },
+  {
+    "age": 36,
+    "archetype": "Creator / Architect",
+    "profession": "Social Worker",
+    "city": "Berkeley",
+    "message_type": "Funny",
+    "message": "36 and still figuring out Social Worker? Classic Creator / Architect energy!"
+  },
+  {
+    "age": 42,
+    "archetype": "Caregiver / Healer",
+    "profession": "Musician",
+    "city": "San Francisco",
+    "message_type": "Funny",
+    "message": "At 42, being a Musician in San Francisco with a Caregiver / Healer streak? Comedy gold!"
+  },
+  {
+    "age": 28,
+    "archetype": "Innocent / Martyr",
+    "profession": "Therapist",
+    "city": "Seattle",
+    "message_type": "Motivational",
+    "message": "Stay strong, 28-year-old Therapist. Your Innocent / Martyr drive will lead you far in Seattle."
+  },
+  {
+    "age": 40,
+    "archetype": "Everyman / Realist",
+    "profession": "Musician",
+    "city": "Denver",
+    "message_type": "Motivational",
+    "message": "Your journey as a Everyman / Realist and Musician in Denver at 40 is just beginning. Keep pushing forward!"
+  },
+  {
+    "age": 39,
+    "archetype": "Magician / Visionary",
+    "profession": "Architect",
+    "city": "Houston",
+    "message_type": "Motivational",
+    "message": "Magician / Visionarys like you bring hope to Houston. Your Architect path at 39 is inspiring."
+  },
+  {
+    "age": 41,
+    "archetype": "Magician / Visionary",
+    "profession": "Travel Blogger",
+    "city": "Las Vegas",
+    "message_type": "Funny",
+    "message": "Las Vegas isn't ready for a Magician / Visionary Travel Blogger at 41 \u2014 bring the chaos!"
+  },
+  {
+    "age": 25,
+    "archetype": "Hero / Warrior",
+    "profession": "Graduate Student",
+    "city": "Denver",
+    "message_type": "Funny",
+    "message": "At 25, being a Graduate Student in Denver with a Hero / Warrior streak? Comedy gold!"
+  },
+  {
+    "age": 39,
+    "archetype": "Jester / Entertainer",
+    "profession": "Architect",
+    "city": "San Francisco",
+    "message_type": "Motivational",
+    "message": "Stay strong, 39-year-old Architect. Your Jester / Entertainer drive will lead you far in San Francisco."
+  },
+  {
+    "age": 26,
+    "archetype": "Ruler / Leader",
+    "profession": "Pediatrician",
+    "city": "New York",
+    "message_type": "Professional",
+    "message": "Ruler / Leaders make excellent Pediatricians \u2014 your impact in New York at 26 is unmatched."
+  },
+  {
+    "age": 33,
+    "archetype": "Orphan / Survivor",
+    "profession": "Tutor",
+    "city": "New York",
+    "message_type": "Professional",
+    "message": "In New York, a Tutor with the mindset of a Orphan / Survivor at 33 stands out with confidence."
+  },
+  {
+    "age": 33,
+    "archetype": "Thief / Trickster",
+    "profession": "Mechanic",
+    "city": "Detroit",
+    "message_type": "Professional",
+    "message": "In Detroit, a Mechanic with the mindset of a Thief / Trickster at 33 stands out with confidence."
+  },
+  {
+    "age": 24,
+    "archetype": "Ruler / Leader",
+    "profession": "Therapist",
+    "city": "Seattle",
+    "message_type": "Funny",
+    "message": "Seattle isn't ready for a Ruler / Leader Therapist at 24 \u2014 bring the chaos!"
+  },
+  {
+    "age": 35,
+    "archetype": "Mentor / Teacher",
+    "profession": "Marketing Manager",
+    "city": "Las Vegas",
+    "message_type": "Professional",
+    "message": "In Las Vegas, a Marketing Manager with the mindset of a Mentor / Teacher at 35 stands out with confidence."
+  },
+  {
+    "age": 34,
+    "archetype": "Ruler / Leader",
+    "profession": "Social Worker",
+    "city": "Boston",
+    "message_type": "Professional",
+    "message": "In Boston, a Social Worker with the mindset of a Ruler / Leader at 34 stands out with confidence."
+  },
+  {
+    "age": 25,
+    "archetype": "Jester / Entertainer",
+    "profession": "Graduate Student",
+    "city": "Houston",
+    "message_type": "Motivational",
+    "message": "Jester / Entertainers like you bring hope to Houston. Your Graduate Student path at 25 is inspiring."
+  },
+  {
+    "age": 22,
+    "archetype": "Explorer / Seeker",
+    "profession": "Architect",
+    "city": "Philadelphia",
+    "message_type": "Funny",
+    "message": "At 22, being a Architect in Philadelphia with a Explorer / Seeker streak? Comedy gold!"
+  },
+  {
+    "age": 43,
+    "archetype": "Sage / Philosopher",
+    "profession": "Graduate Student",
+    "city": "Austin",
+    "message_type": "Motivational",
+    "message": "Stay strong, 43-year-old Graduate Student. Your Sage / Philosopher drive will lead you far in Austin."
+  },
+  {
+    "age": 24,
+    "archetype": "Hero / Warrior",
+    "profession": "Tutor",
+    "city": "Berkeley",
+    "message_type": "Funny",
+    "message": "At 24, being a Tutor in Berkeley with a Hero / Warrior streak? Comedy gold!"
+  },
+  {
+    "age": 24,
+    "archetype": "Ruler / Leader",
+    "profession": "Veteran Outreach Specialist",
+    "city": "Austin",
+    "message_type": "Professional",
+    "message": "At 24, your Ruler / Leader perspective brings clarity and innovation to your role as a Veteran Outreach Specialist in Austin."
+  },
+  {
+    "age": 40,
+    "archetype": "Hero / Warrior",
+    "profession": "Veteran Outreach Specialist",
+    "city": "Houston",
+    "message_type": "Professional",
+    "message": "In Houston, a Veteran Outreach Specialist with the mindset of a Hero / Warrior at 40 stands out with confidence."
+  },
+  {
+    "age": 31,
+    "archetype": "Hero / Warrior",
+    "profession": "Mechanic",
+    "city": "Los Angeles",
+    "message_type": "Motivational",
+    "message": "Hero / Warriors like you bring hope to Los Angeles. Your Mechanic path at 31 is inspiring."
+  },
+  {
+    "age": 44,
+    "archetype": "Creator / Architect",
+    "profession": "Chef",
+    "city": "Detroit",
+    "message_type": "Professional",
+    "message": "Creator / Architects make excellent Chefs \u2014 your impact in Detroit at 44 is unmatched."
+  },
+  {
+    "age": 43,
+    "archetype": "Magician / Visionary",
+    "profession": "Musician",
+    "city": "Tampa",
+    "message_type": "Motivational",
+    "message": "Magician / Visionarys like you bring hope to Tampa. Your Musician path at 43 is inspiring."
+  },
+  {
+    "age": 35,
+    "archetype": "Lover / Companion",
+    "profession": "Project Manager",
+    "city": "Houston",
+    "message_type": "Funny",
+    "message": "Houston isn't ready for a Lover / Companion Project Manager at 35 \u2014 bring the chaos!"
+  },
+  {
+    "age": 30,
+    "archetype": "Creator / Architect",
+    "profession": "Project Manager",
+    "city": "Detroit",
+    "message_type": "Funny",
+    "message": "Detroit isn't ready for a Creator / Architect Project Manager at 30 \u2014 bring the chaos!"
+  },
+  {
+    "age": 36,
+    "archetype": "Orphan / Survivor",
+    "profession": "Veteran Outreach Specialist",
+    "city": "Philadelphia",
+    "message_type": "Professional",
+    "message": "In Philadelphia, a Veteran Outreach Specialist with the mindset of a Orphan / Survivor at 36 stands out with confidence."
+  },
+  {
+    "age": 30,
+    "archetype": "Mentor / Teacher",
+    "profession": "Journalist",
+    "city": "New York",
+    "message_type": "Funny",
+    "message": "New York isn't ready for a Mentor / Teacher Journalist at 30 \u2014 bring the chaos!"
+  },
+  {
+    "age": 30,
+    "archetype": "Caregiver / Healer",
+    "profession": "Travel Blogger",
+    "city": "Houston",
+    "message_type": "Motivational",
+    "message": "Your journey as a Caregiver / Healer and Travel Blogger in Houston at 30 is just beginning. Keep pushing forward!"
+  },
+  {
+    "age": 27,
+    "archetype": "Jester / Entertainer",
+    "profession": "Chef",
+    "city": "Las Vegas",
+    "message_type": "Professional",
+    "message": "In Las Vegas, a Chef with the mindset of a Jester / Entertainer at 27 stands out with confidence."
+  },
+  {
+    "age": 39,
+    "archetype": "Hero / Warrior",
+    "profession": "Project Manager",
+    "city": "Philadelphia",
+    "message_type": "Funny",
+    "message": "39 and still figuring out Project Manager? Classic Hero / Warrior energy!"
+  },
+  {
+    "age": 41,
+    "archetype": "Magician / Visionary",
+    "profession": "Project Manager",
+    "city": "Philadelphia",
+    "message_type": "Motivational",
+    "message": "Stay strong, 41-year-old Project Manager. Your Magician / Visionary drive will lead you far in Philadelphia."
+  },
+  {
+    "age": 39,
+    "archetype": "Mentor / Teacher",
+    "profession": "Nurse",
+    "city": "Atlanta",
+    "message_type": "Funny",
+    "message": "39 and still figuring out Nurse? Classic Mentor / Teacher energy!"
+  },
+  {
+    "age": 38,
+    "archetype": "Lover / Companion",
+    "profession": "Comedian",
+    "city": "Austin",
+    "message_type": "Professional",
+    "message": "Lover / Companions make excellent Comedians \u2014 your impact in Austin at 38 is unmatched."
+  },
+  {
+    "age": 39,
+    "archetype": "Ruler / Leader",
+    "profession": "Therapist",
+    "city": "Denver",
+    "message_type": "Funny",
+    "message": "Denver isn't ready for a Ruler / Leader Therapist at 39 \u2014 bring the chaos!"
+  },
+  {
+    "age": 28,
+    "archetype": "Magician / Visionary",
+    "profession": "Graduate Student",
+    "city": "New York",
+    "message_type": "Motivational",
+    "message": "Magician / Visionarys like you bring hope to New York. Your Graduate Student path at 28 is inspiring."
+  },
+  {
+    "age": 24,
+    "archetype": "Sage / Philosopher",
+    "profession": "Pediatrician",
+    "city": "Boston",
+    "message_type": "Funny",
+    "message": "24 and still figuring out Pediatrician? Classic Sage / Philosopher energy!"
+  },
+  {
+    "age": 40,
+    "archetype": "Creator / Architect",
+    "profession": "Nurse",
+    "city": "San Francisco",
+    "message_type": "Professional",
+    "message": "At 40, your Creator / Architect perspective brings clarity and innovation to your role as a Nurse in San Francisco."
+  },
+  {
+    "age": 26,
+    "archetype": "Mentor / Teacher",
+    "profession": "Therapist",
+    "city": "Las Vegas",
+    "message_type": "Funny",
+    "message": "26 and still figuring out Therapist? Classic Mentor / Teacher energy!"
+  },
+  {
+    "age": 33,
+    "archetype": "Caregiver / Healer",
+    "profession": "Software Developer",
+    "city": "Denver",
+    "message_type": "Motivational",
+    "message": "Stay strong, 33-year-old Software Developer. Your Caregiver / Healer drive will lead you far in Denver."
+  },
+  {
+    "age": 37,
+    "archetype": "Thief / Trickster",
+    "profession": "Architect",
+    "city": "Denver",
+    "message_type": "Funny",
+    "message": "37 and still figuring out Architect? Classic Thief / Trickster energy!"
+  },
+  {
+    "age": 39,
+    "archetype": "Explorer / Seeker",
+    "profession": "Chef",
+    "city": "Detroit",
+    "message_type": "Professional",
+    "message": "Explorer / Seekers make excellent Chefs \u2014 your impact in Detroit at 39 is unmatched."
+  },
+  {
+    "age": 39,
+    "archetype": "Jester / Entertainer",
+    "profession": "Tutor",
+    "city": "Atlanta",
+    "message_type": "Funny",
+    "message": "At 39, being a Tutor in Atlanta with a Jester / Entertainer streak? Comedy gold!"
+  },
+  {
+    "age": 31,
+    "archetype": "Ruler / Leader",
+    "profession": "Musician",
+    "city": "San Francisco",
+    "message_type": "Professional",
+    "message": "At 31, your Ruler / Leader perspective brings clarity and innovation to your role as a Musician in San Francisco."
+  },
+  {
+    "age": 44,
+    "archetype": "Caregiver / Healer",
+    "profession": "Graduate Student",
+    "city": "Tampa",
+    "message_type": "Professional",
+    "message": "At 44, your Caregiver / Healer perspective brings clarity and innovation to your role as a Graduate Student in Tampa."
+  },
+  {
+    "age": 30,
+    "archetype": "Mentor / Teacher",
+    "profession": "Engineer",
+    "city": "New York",
+    "message_type": "Motivational",
+    "message": "Mentor / Teachers like you bring hope to New York. Your Engineer path at 30 is inspiring."
+  },
+  {
+    "age": 22,
+    "archetype": "Hero / Warrior",
+    "profession": "Travel Blogger",
+    "city": "Las Vegas",
+    "message_type": "Motivational",
+    "message": "Stay strong, 22-year-old Travel Blogger. Your Hero / Warrior drive will lead you far in Las Vegas."
+  },
+  {
+    "age": 40,
+    "archetype": "Hero / Warrior",
+    "profession": "Musician",
+    "city": "Berkeley",
+    "message_type": "Motivational",
+    "message": "Hero / Warriors like you bring hope to Berkeley. Your Musician path at 40 is inspiring."
+  },
+  {
+    "age": 33,
+    "archetype": "Hero / Warrior",
+    "profession": "Travel Blogger",
+    "city": "Houston",
+    "message_type": "Professional",
+    "message": "In Houston, a Travel Blogger with the mindset of a Hero / Warrior at 33 stands out with confidence."
+  },
+  {
+    "age": 38,
+    "archetype": "Explorer / Seeker",
+    "profession": "Project Manager",
+    "city": "Houston",
+    "message_type": "Motivational",
+    "message": "Stay strong, 38-year-old Project Manager. Your Explorer / Seeker drive will lead you far in Houston."
+  },
+  {
+    "age": 40,
+    "archetype": "Caregiver / Healer",
+    "profession": "Comedian",
+    "city": "Detroit",
+    "message_type": "Funny",
+    "message": "Detroit isn't ready for a Caregiver / Healer Comedian at 40 \u2014 bring the chaos!"
+  },
+  {
+    "age": 23,
+    "archetype": "Everyman / Realist",
+    "profession": "Nurse",
+    "city": "Detroit",
+    "message_type": "Motivational",
+    "message": "Everyman / Realists like you bring hope to Detroit. Your Nurse path at 23 is inspiring."
+  },
+  {
+    "age": 43,
+    "archetype": "Ruler / Leader",
+    "profession": "Comedian",
+    "city": "Boston",
+    "message_type": "Funny",
+    "message": "43 and still figuring out Comedian? Classic Ruler / Leader energy!"
+  },
+  {
+    "age": 42,
+    "archetype": "Creator / Architect",
+    "profession": "Graduate Student",
+    "city": "San Francisco",
+    "message_type": "Professional",
+    "message": "Creator / Architects make excellent Graduate Students \u2014 your impact in San Francisco at 42 is unmatched."
+  },
+  {
+    "age": 33,
+    "archetype": "Jester / Entertainer",
+    "profession": "Chef",
+    "city": "Los Angeles",
+    "message_type": "Motivational",
+    "message": "Stay strong, 33-year-old Chef. Your Jester / Entertainer drive will lead you far in Los Angeles."
+  },
+  {
+    "age": 38,
+    "archetype": "Caregiver / Healer",
+    "profession": "Musician",
+    "city": "Detroit",
+    "message_type": "Funny",
+    "message": "Detroit isn't ready for a Caregiver / Healer Musician at 38 \u2014 bring the chaos!"
+  },
+  {
+    "age": 23,
+    "archetype": "Creator / Architect",
+    "profession": "Software Developer",
+    "city": "Las Vegas",
+    "message_type": "Professional",
+    "message": "Creator / Architects make excellent Software Developers \u2014 your impact in Las Vegas at 23 is unmatched."
+  },
+  {
+    "age": 40,
+    "archetype": "Innocent / Martyr",
+    "profession": "AI Researcher",
+    "city": "Seattle",
+    "message_type": "Funny",
+    "message": "At 40, being a AI Researcher in Seattle with a Innocent / Martyr streak? Comedy gold!"
+  },
+  {
+    "age": 24,
+    "archetype": "Orphan / Survivor",
+    "profession": "Travel Blogger",
+    "city": "Denver",
+    "message_type": "Motivational",
+    "message": "Stay strong, 24-year-old Travel Blogger. Your Orphan / Survivor drive will lead you far in Denver."
+  },
+  {
+    "age": 32,
+    "archetype": "Ruler / Leader",
+    "profession": "Travel Blogger",
+    "city": "San Francisco",
+    "message_type": "Motivational",
+    "message": "Your journey as a Ruler / Leader and Travel Blogger in San Francisco at 32 is just beginning. Keep pushing forward!"
+  },
+  {
+    "age": 34,
+    "archetype": "Hero / Warrior",
+    "profession": "Chef",
+    "city": "Detroit",
+    "message_type": "Motivational",
+    "message": "Hero / Warriors like you bring hope to Detroit. Your Chef path at 34 is inspiring."
+  },
+  {
+    "age": 41,
+    "archetype": "Jester / Entertainer",
+    "profession": "Engineer",
+    "city": "San Francisco",
+    "message_type": "Motivational",
+    "message": "Your journey as a Jester / Entertainer and Engineer in San Francisco at 41 is just beginning. Keep pushing forward!"
+  },
+  {
+    "age": 39,
+    "archetype": "Creator / Architect",
+    "profession": "Architect",
+    "city": "Austin",
+    "message_type": "Motivational",
+    "message": "Your journey as a Creator / Architect and Architect in Austin at 39 is just beginning. Keep pushing forward!"
+  },
+  {
+    "age": 24,
+    "archetype": "Rebel / Maverick",
+    "profession": "Engineer",
+    "city": "Detroit",
+    "message_type": "Motivational",
+    "message": "Stay strong, 24-year-old Engineer. Your Rebel / Maverick drive will lead you far in Detroit."
+  },
+  {
+    "age": 24,
+    "archetype": "Innocent / Martyr",
+    "profession": "Therapist",
+    "city": "San Francisco",
+    "message_type": "Funny",
+    "message": "San Francisco isn't ready for a Innocent / Martyr Therapist at 24 \u2014 bring the chaos!"
+  },
+  {
+    "age": 37,
+    "archetype": "Hero / Warrior",
+    "profession": "Architect",
+    "city": "New York",
+    "message_type": "Motivational",
+    "message": "Your journey as a Hero / Warrior and Architect in New York at 37 is just beginning. Keep pushing forward!"
+  },
+  {
+    "age": 24,
+    "archetype": "Jester / Entertainer",
+    "profession": "Comedian",
+    "city": "Tampa",
+    "message_type": "Funny",
+    "message": "Tampa isn't ready for a Jester / Entertainer Comedian at 24 \u2014 bring the chaos!"
+  },
+  {
+    "age": 30,
+    "archetype": "Jester / Entertainer",
+    "profession": "Pediatrician",
+    "city": "Los Angeles",
+    "message_type": "Professional",
+    "message": "At 30, your Jester / Entertainer perspective brings clarity and innovation to your role as a Pediatrician in Los Angeles."
+  },
+  {
+    "age": 35,
+    "archetype": "Magician / Visionary",
+    "profession": "Startup Founder",
+    "city": "Houston",
+    "message_type": "Funny",
+    "message": "At 35, being a Startup Founder in Houston with a Magician / Visionary streak? Comedy gold!"
+  },
+  {
+    "age": 41,
+    "archetype": "Explorer / Seeker",
+    "profession": "Travel Blogger",
+    "city": "Seattle",
+    "message_type": "Professional",
+    "message": "In Seattle, a Travel Blogger with the mindset of a Explorer / Seeker at 41 stands out with confidence."
+  },
+  {
+    "age": 34,
+    "archetype": "Mentor / Teacher",
+    "profession": "Engineer",
+    "city": "San Francisco",
+    "message_type": "Professional",
+    "message": "In San Francisco, a Engineer with the mindset of a Mentor / Teacher at 34 stands out with confidence."
+  },
+  {
+    "age": 32,
+    "archetype": "Explorer / Seeker",
+    "profession": "Travel Blogger",
+    "city": "Tampa",
+    "message_type": "Motivational",
+    "message": "Stay strong, 32-year-old Travel Blogger. Your Explorer / Seeker drive will lead you far in Tampa."
+  },
+  {
+    "age": 40,
+    "archetype": "Hero / Warrior",
+    "profession": "Tutor",
+    "city": "Atlanta",
+    "message_type": "Professional",
+    "message": "At 40, your Hero / Warrior perspective brings clarity and innovation to your role as a Tutor in Atlanta."
+  },
+  {
+    "age": 39,
+    "archetype": "Everyman / Realist",
+    "profession": "Tutor",
+    "city": "Berkeley",
+    "message_type": "Motivational",
+    "message": "Everyman / Realists like you bring hope to Berkeley. Your Tutor path at 39 is inspiring."
+  },
+  {
+    "age": 43,
+    "archetype": "Orphan / Survivor",
+    "profession": "Journalist",
+    "city": "Chicago",
+    "message_type": "Motivational",
+    "message": "Stay strong, 43-year-old Journalist. Your Orphan / Survivor drive will lead you far in Chicago."
+  },
+  {
+    "age": 34,
+    "archetype": "Lover / Companion",
+    "profession": "Graduate Student",
+    "city": "Philadelphia",
+    "message_type": "Professional",
+    "message": "Lover / Companions make excellent Graduate Students \u2014 your impact in Philadelphia at 34 is unmatched."
+  },
+  {
+    "age": 42,
+    "archetype": "Rebel / Maverick",
+    "profession": "Travel Blogger",
+    "city": "Las Vegas",
+    "message_type": "Motivational",
+    "message": "Rebel / Mavericks like you bring hope to Las Vegas. Your Travel Blogger path at 42 is inspiring."
+  },
+  {
+    "age": 41,
+    "archetype": "Caregiver / Healer",
+    "profession": "Nurse",
+    "city": "Houston",
+    "message_type": "Professional",
+    "message": "In Houston, a Nurse with the mindset of a Caregiver / Healer at 41 stands out with confidence."
+  },
+  {
+    "age": 33,
+    "archetype": "Lover / Companion",
+    "profession": "Social Worker",
+    "city": "Las Vegas",
+    "message_type": "Professional",
+    "message": "Lover / Companions make excellent Social Workers \u2014 your impact in Las Vegas at 33 is unmatched."
+  },
+  {
+    "age": 36,
+    "archetype": "Innocent / Martyr",
+    "profession": "Mechanic",
+    "city": "New York",
+    "message_type": "Funny",
+    "message": "New York isn't ready for a Innocent / Martyr Mechanic at 36 \u2014 bring the chaos!"
+  },
+  {
+    "age": 42,
+    "archetype": "Mentor / Teacher",
+    "profession": "Engineer",
+    "city": "Seattle",
+    "message_type": "Professional",
+    "message": "In Seattle, a Engineer with the mindset of a Mentor / Teacher at 42 stands out with confidence."
+  },
+  {
+    "age": 39,
+    "archetype": "Sage / Philosopher",
+    "profession": "Startup Founder",
+    "city": "Berkeley",
+    "message_type": "Professional",
+    "message": "Sage / Philosophers make excellent Startup Founders \u2014 your impact in Berkeley at 39 is unmatched."
+  },
+  {
+    "age": 34,
+    "archetype": "Hero / Warrior",
+    "profession": "Startup Founder",
+    "city": "Chicago",
+    "message_type": "Funny",
+    "message": "At 34, being a Startup Founder in Chicago with a Hero / Warrior streak? Comedy gold!"
+  },
+  {
+    "age": 32,
+    "archetype": "Magician / Visionary",
+    "profession": "Pediatrician",
+    "city": "San Francisco",
+    "message_type": "Funny",
+    "message": "32 and still figuring out Pediatrician? Classic Magician / Visionary energy!"
+  },
+  {
+    "age": 26,
+    "archetype": "Innocent / Martyr",
+    "profession": "Project Manager",
+    "city": "Las Vegas",
+    "message_type": "Funny",
+    "message": "26 and still figuring out Project Manager? Classic Innocent / Martyr energy!"
+  },
+  {
+    "age": 22,
+    "archetype": "Thief / Trickster",
+    "profession": "Musician",
+    "city": "San Francisco",
+    "message_type": "Funny",
+    "message": "At 22, being a Musician in San Francisco with a Thief / Trickster streak? Comedy gold!"
+  },
+  {
+    "age": 35,
+    "archetype": "Ruler / Leader",
+    "profession": "Engineer",
+    "city": "Chicago",
+    "message_type": "Funny",
+    "message": "Chicago isn't ready for a Ruler / Leader Engineer at 35 \u2014 bring the chaos!"
+  },
+  {
+    "age": 28,
+    "archetype": "Mentor / Teacher",
+    "profession": "Startup Founder",
+    "city": "Denver",
+    "message_type": "Funny",
+    "message": "At 28, being a Startup Founder in Denver with a Mentor / Teacher streak? Comedy gold!"
+  },
+  {
+    "age": 44,
+    "archetype": "Magician / Visionary",
+    "profession": "Musician",
+    "city": "Detroit",
+    "message_type": "Funny",
+    "message": "Detroit isn't ready for a Magician / Visionary Musician at 44 \u2014 bring the chaos!"
+  },
+  {
+    "age": 34,
+    "archetype": "Caregiver / Healer",
+    "profession": "Mechanic",
+    "city": "Houston",
+    "message_type": "Motivational",
+    "message": "Your journey as a Caregiver / Healer and Mechanic in Houston at 34 is just beginning. Keep pushing forward!"
+  },
+  {
+    "age": 42,
+    "archetype": "Mentor / Teacher",
+    "profession": "Mechanic",
+    "city": "Seattle",
+    "message_type": "Motivational",
+    "message": "Mentor / Teachers like you bring hope to Seattle. Your Mechanic path at 42 is inspiring."
+  },
+  {
+    "age": 25,
+    "archetype": "Sage / Philosopher",
+    "profession": "Software Developer",
+    "city": "New York",
+    "message_type": "Motivational",
+    "message": "Your journey as a Sage / Philosopher and Software Developer in New York at 25 is just beginning. Keep pushing forward!"
+  },
+  {
+    "age": 43,
+    "archetype": "Rebel / Maverick",
+    "profession": "Pediatrician",
+    "city": "Atlanta",
+    "message_type": "Professional",
+    "message": "In Atlanta, a Pediatrician with the mindset of a Rebel / Maverick at 43 stands out with confidence."
+  },
+  {
+    "age": 28,
+    "archetype": "Thief / Trickster",
+    "profession": "Social Worker",
+    "city": "Austin",
+    "message_type": "Motivational",
+    "message": "Your journey as a Thief / Trickster and Social Worker in Austin at 28 is just beginning. Keep pushing forward!"
+  },
+  {
+    "age": 26,
+    "archetype": "Hero / Warrior",
+    "profession": "Mechanic",
+    "city": "Detroit",
+    "message_type": "Professional",
+    "message": "Hero / Warriors make excellent Mechanics \u2014 your impact in Detroit at 26 is unmatched."
+  },
+  {
+    "age": 36,
+    "archetype": "Ruler / Leader",
+    "profession": "Social Worker",
+    "city": "Las Vegas",
+    "message_type": "Professional",
+    "message": "At 36, your Ruler / Leader perspective brings clarity and innovation to your role as a Social Worker in Las Vegas."
+  },
+  {
+    "age": 25,
+    "archetype": "Ruler / Leader",
+    "profession": "Therapist",
+    "city": "Seattle",
+    "message_type": "Funny",
+    "message": "25 and still figuring out Therapist? Classic Ruler / Leader energy!"
+  },
+  {
+    "age": 35,
+    "archetype": "Explorer / Seeker",
+    "profession": "Architect",
+    "city": "Las Vegas",
+    "message_type": "Professional",
+    "message": "Explorer / Seekers make excellent Architects \u2014 your impact in Las Vegas at 35 is unmatched."
+  },
+  {
+    "age": 33,
+    "archetype": "Orphan / Survivor",
+    "profession": "Social Worker",
+    "city": "New York",
+    "message_type": "Professional",
+    "message": "Orphan / Survivors make excellent Social Workers \u2014 your impact in New York at 33 is unmatched."
+  },
+  {
+    "age": 31,
+    "archetype": "Orphan / Survivor",
+    "profession": "Graduate Student",
+    "city": "Tampa",
+    "message_type": "Funny",
+    "message": "At 31, being a Graduate Student in Tampa with a Orphan / Survivor streak? Comedy gold!"
+  },
+  {
+    "age": 42,
+    "archetype": "Innocent / Martyr",
+    "profession": "Chef",
+    "city": "Atlanta",
+    "message_type": "Professional",
+    "message": "Innocent / Martyrs make excellent Chefs \u2014 your impact in Atlanta at 42 is unmatched."
+  },
+  {
+    "age": 41,
+    "archetype": "Caregiver / Healer",
+    "profession": "Journalist",
+    "city": "San Francisco",
+    "message_type": "Motivational",
+    "message": "Stay strong, 41-year-old Journalist. Your Caregiver / Healer drive will lead you far in San Francisco."
+  },
+  {
+    "age": 39,
+    "archetype": "Caregiver / Healer",
+    "profession": "Startup Founder",
+    "city": "San Francisco",
+    "message_type": "Motivational",
+    "message": "Stay strong, 39-year-old Startup Founder. Your Caregiver / Healer drive will lead you far in San Francisco."
+  },
+  {
+    "age": 44,
+    "archetype": "Jester / Entertainer",
+    "profession": "Engineer",
+    "city": "Detroit",
+    "message_type": "Funny",
+    "message": "Detroit isn't ready for a Jester / Entertainer Engineer at 44 \u2014 bring the chaos!"
+  },
+  {
+    "age": 38,
+    "archetype": "Caregiver / Healer",
+    "profession": "Pediatrician",
+    "city": "Berkeley",
+    "message_type": "Funny",
+    "message": "At 38, being a Pediatrician in Berkeley with a Caregiver / Healer streak? Comedy gold!"
+  },
+  {
+    "age": 38,
+    "archetype": "Mentor / Teacher",
+    "profession": "Project Manager",
+    "city": "Los Angeles",
+    "message_type": "Funny",
+    "message": "38 and still figuring out Project Manager? Classic Mentor / Teacher energy!"
+  },
+  {
+    "age": 25,
+    "archetype": "Creator / Architect",
+    "profession": "Musician",
+    "city": "Las Vegas",
+    "message_type": "Professional",
+    "message": "At 25, your Creator / Architect perspective brings clarity and innovation to your role as a Musician in Las Vegas."
+  },
+  {
+    "age": 27,
+    "archetype": "Hero / Warrior",
+    "profession": "Musician",
+    "city": "Austin",
+    "message_type": "Professional",
+    "message": "Hero / Warriors make excellent Musicians \u2014 your impact in Austin at 27 is unmatched."
+  },
+  {
+    "age": 34,
+    "archetype": "Explorer / Seeker",
+    "profession": "Musician",
+    "city": "Los Angeles",
+    "message_type": "Motivational",
+    "message": "Explorer / Seekers like you bring hope to Los Angeles. Your Musician path at 34 is inspiring."
+  },
+  {
+    "age": 33,
+    "archetype": "Thief / Trickster",
+    "profession": "Journalist",
+    "city": "Detroit",
+    "message_type": "Motivational",
+    "message": "Thief / Tricksters like you bring hope to Detroit. Your Journalist path at 33 is inspiring."
+  },
+  {
+    "age": 37,
+    "archetype": "Creator / Architect",
+    "profession": "Nurse",
+    "city": "Detroit",
+    "message_type": "Motivational",
+    "message": "Creator / Architects like you bring hope to Detroit. Your Nurse path at 37 is inspiring."
+  },
+  {
+    "age": 35,
+    "archetype": "Everyman / Realist",
+    "profession": "Pediatrician",
+    "city": "Denver",
+    "message_type": "Professional",
+    "message": "Everyman / Realists make excellent Pediatricians \u2014 your impact in Denver at 35 is unmatched."
+  },
+  {
+    "age": 29,
+    "archetype": "Explorer / Seeker",
+    "profession": "Nurse",
+    "city": "Las Vegas",
+    "message_type": "Motivational",
+    "message": "Stay strong, 29-year-old Nurse. Your Explorer / Seeker drive will lead you far in Las Vegas."
+  },
+  {
+    "age": 24,
+    "archetype": "Innocent / Martyr",
+    "profession": "Startup Founder",
+    "city": "Denver",
+    "message_type": "Funny",
+    "message": "At 24, being a Startup Founder in Denver with a Innocent / Martyr streak? Comedy gold!"
+  },
+  {
+    "age": 31,
+    "archetype": "Hero / Warrior",
+    "profession": "Pediatrician",
+    "city": "Austin",
+    "message_type": "Motivational",
+    "message": "Stay strong, 31-year-old Pediatrician. Your Hero / Warrior drive will lead you far in Austin."
+  },
+  {
+    "age": 22,
+    "archetype": "Innocent / Martyr",
+    "profession": "Architect",
+    "city": "Philadelphia",
+    "message_type": "Professional",
+    "message": "In Philadelphia, a Architect with the mindset of a Innocent / Martyr at 22 stands out with confidence."
+  },
+  {
+    "age": 29,
+    "archetype": "Thief / Trickster",
+    "profession": "Nurse",
+    "city": "Berkeley",
+    "message_type": "Professional",
+    "message": "At 29, your Thief / Trickster perspective brings clarity and innovation to your role as a Nurse in Berkeley."
+  },
+  {
+    "age": 23,
+    "archetype": "Caregiver / Healer",
+    "profession": "Tutor",
+    "city": "Houston",
+    "message_type": "Motivational",
+    "message": "Caregiver / Healers like you bring hope to Houston. Your Tutor path at 23 is inspiring."
+  },
+  {
+    "age": 25,
+    "archetype": "Explorer / Seeker",
+    "profession": "Travel Blogger",
+    "city": "Philadelphia",
+    "message_type": "Funny",
+    "message": "Philadelphia isn't ready for a Explorer / Seeker Travel Blogger at 25 \u2014 bring the chaos!"
+  },
+  {
+    "age": 43,
+    "archetype": "Caregiver / Healer",
+    "profession": "Architect",
+    "city": "Seattle",
+    "message_type": "Motivational",
+    "message": "Your journey as a Caregiver / Healer and Architect in Seattle at 43 is just beginning. Keep pushing forward!"
+  },
+  {
+    "age": 24,
+    "archetype": "Innocent / Martyr",
+    "profession": "Comedian",
+    "city": "Detroit",
+    "message_type": "Motivational",
+    "message": "Your journey as a Innocent / Martyr and Comedian in Detroit at 24 is just beginning. Keep pushing forward!"
+  },
+  {
+    "age": 26,
+    "archetype": "Ruler / Leader",
+    "profession": "Marketing Manager",
+    "city": "Seattle",
+    "message_type": "Motivational",
+    "message": "Stay strong, 26-year-old Marketing Manager. Your Ruler / Leader drive will lead you far in Seattle."
+  },
+  {
+    "age": 39,
+    "archetype": "Creator / Architect",
+    "profession": "Veteran Outreach Specialist",
+    "city": "Houston",
+    "message_type": "Professional",
+    "message": "Creator / Architects make excellent Veteran Outreach Specialists \u2014 your impact in Houston at 39 is unmatched."
+  },
+  {
+    "age": 33,
+    "archetype": "Hero / Warrior",
+    "profession": "Engineer",
+    "city": "Denver",
+    "message_type": "Motivational",
+    "message": "Stay strong, 33-year-old Engineer. Your Hero / Warrior drive will lead you far in Denver."
+  },
+  {
+    "age": 32,
+    "archetype": "Orphan / Survivor",
+    "profession": "Architect",
+    "city": "Detroit",
+    "message_type": "Funny",
+    "message": "Detroit isn't ready for a Orphan / Survivor Architect at 32 \u2014 bring the chaos!"
+  },
+  {
+    "age": 34,
+    "archetype": "Hero / Warrior",
+    "profession": "Pediatrician",
+    "city": "Denver",
+    "message_type": "Professional",
+    "message": "At 34, your Hero / Warrior perspective brings clarity and innovation to your role as a Pediatrician in Denver."
+  },
+  {
+    "age": 32,
+    "archetype": "Everyman / Realist",
+    "profession": "Travel Blogger",
+    "city": "San Francisco",
+    "message_type": "Motivational",
+    "message": "Your journey as a Everyman / Realist and Travel Blogger in San Francisco at 32 is just beginning. Keep pushing forward!"
+  },
+  {
+    "age": 37,
+    "archetype": "Jester / Entertainer",
+    "profession": "Engineer",
+    "city": "Atlanta",
+    "message_type": "Motivational",
+    "message": "Stay strong, 37-year-old Engineer. Your Jester / Entertainer drive will lead you far in Atlanta."
+  },
+  {
+    "age": 26,
+    "archetype": "Innocent / Martyr",
+    "profession": "Veteran Outreach Specialist",
+    "city": "New York",
+    "message_type": "Motivational",
+    "message": "Stay strong, 26-year-old Veteran Outreach Specialist. Your Innocent / Martyr drive will lead you far in New York."
+  },
+  {
+    "age": 22,
+    "archetype": "Creator / Architect",
+    "profession": "Tutor",
+    "city": "Chicago",
+    "message_type": "Motivational",
+    "message": "Creator / Architects like you bring hope to Chicago. Your Tutor path at 22 is inspiring."
+  },
+  {
+    "age": 34,
+    "archetype": "Creator / Architect",
+    "profession": "Graduate Student",
+    "city": "Atlanta",
+    "message_type": "Funny",
+    "message": "At 34, being a Graduate Student in Atlanta with a Creator / Architect streak? Comedy gold!"
+  },
+  {
+    "age": 23,
+    "archetype": "Rebel / Maverick",
+    "profession": "Nurse",
+    "city": "Atlanta",
+    "message_type": "Motivational",
+    "message": "Your journey as a Rebel / Maverick and Nurse in Atlanta at 23 is just beginning. Keep pushing forward!"
+  },
+  {
+    "age": 24,
+    "archetype": "Caregiver / Healer",
+    "profession": "AI Researcher",
+    "city": "San Francisco",
+    "message_type": "Motivational",
+    "message": "Caregiver / Healers like you bring hope to San Francisco. Your AI Researcher path at 24 is inspiring."
+  },
+  {
+    "age": 43,
+    "archetype": "Magician / Visionary",
+    "profession": "Engineer",
+    "city": "Denver",
+    "message_type": "Motivational",
+    "message": "Magician / Visionarys like you bring hope to Denver. Your Engineer path at 43 is inspiring."
+  },
+  {
+    "age": 31,
+    "archetype": "Caregiver / Healer",
+    "profession": "Marketing Manager",
+    "city": "Chicago",
+    "message_type": "Professional",
+    "message": "At 31, your Caregiver / Healer perspective brings clarity and innovation to your role as a Marketing Manager in Chicago."
+  },
+  {
+    "age": 34,
+    "archetype": "Creator / Architect",
+    "profession": "Chef",
+    "city": "Denver",
+    "message_type": "Funny",
+    "message": "Denver isn't ready for a Creator / Architect Chef at 34 \u2014 bring the chaos!"
+  },
+  {
+    "age": 22,
+    "archetype": "Innocent / Martyr",
+    "profession": "Nurse",
+    "city": "Seattle",
+    "message_type": "Professional",
+    "message": "In Seattle, a Nurse with the mindset of a Innocent / Martyr at 22 stands out with confidence."
+  },
+  {
+    "age": 34,
+    "archetype": "Jester / Entertainer",
+    "profession": "Software Developer",
+    "city": "Tampa",
+    "message_type": "Funny",
+    "message": "Tampa isn't ready for a Jester / Entertainer Software Developer at 34 \u2014 bring the chaos!"
+  },
+  {
+    "age": 30,
+    "archetype": "Everyman / Realist",
+    "profession": "Mechanic",
+    "city": "Denver",
+    "message_type": "Funny",
+    "message": "Denver isn't ready for a Everyman / Realist Mechanic at 30 \u2014 bring the chaos!"
+  },
+  {
+    "age": 31,
+    "archetype": "Creator / Architect",
+    "profession": "Startup Founder",
+    "city": "Detroit",
+    "message_type": "Motivational",
+    "message": "Stay strong, 31-year-old Startup Founder. Your Creator / Architect drive will lead you far in Detroit."
+  },
+  {
+    "age": 41,
+    "archetype": "Creator / Architect",
+    "profession": "Social Worker",
+    "city": "Detroit",
+    "message_type": "Funny",
+    "message": "At 41, being a Social Worker in Detroit with a Creator / Architect streak? Comedy gold!"
+  },
+  {
+    "age": 37,
+    "archetype": "Everyman / Realist",
+    "profession": "Mechanic",
+    "city": "New York",
+    "message_type": "Motivational",
+    "message": "Stay strong, 37-year-old Mechanic. Your Everyman / Realist drive will lead you far in New York."
+  },
+  {
+    "age": 34,
+    "archetype": "Creator / Architect",
+    "profession": "Comedian",
+    "city": "Los Angeles",
+    "message_type": "Funny",
+    "message": "At 34, being a Comedian in Los Angeles with a Creator / Architect streak? Comedy gold!"
+  },
+  {
+    "age": 33,
+    "archetype": "Thief / Trickster",
+    "profession": "Nurse",
+    "city": "Chicago",
+    "message_type": "Professional",
+    "message": "In Chicago, a Nurse with the mindset of a Thief / Trickster at 33 stands out with confidence."
+  }
+]
